@@ -5,7 +5,7 @@
 
 ## 過濾器
 
-### ub0
+### uB0
 
 ```list
 ! ABP
@@ -17,11 +17,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/MiningServerIPList.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
-! Hosts
-https://neko-dev.github.io/neohosts/full/hosts
+! HOSTS
 http://winhelp2002.mvps.org/hosts.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://mirror1.malwaredomains.com/files/justdomains
@@ -32,6 +28,9 @@ https://hosts-file.net/hjk.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/MiningServerIPList.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
