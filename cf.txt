@@ -1,0 +1,12 @@
+[Adblock Plus]
+! Title: 內容農場
+! Expires: 1 hour
+! Version: 2018.0131.1
+! ----------------------------------------------------------------------
+||bizroomguang.com
+||bomb01.com
+||coco01.net
+||kknews.cc
+||ptt01.cc
+||read01.com
+||wetalk.tw

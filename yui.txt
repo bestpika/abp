@@ -1,0 +1,69 @@
+[Adblock Plus]
+! Homepage: https://bestpika.github.io/abp/
+! Title: 廣告退散
+! Expires: 1 hour
+! Version: 2018.0915.1
+! ----------------------------------------------------------------------
+! https://adblockplus.org/zh_TW/filters
+! https://adblockplus.org/zh_TW/filter-cheatsheet
+! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
+! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+! ----------------------------------------------------------------------
+! 嗶哩嗶哩
+@@||acgvideo.com/*.flv
+! 二箱
+@@||ainoob.com/bello^
+! Branch.io
+@@||branch.io^$domain=branch.io
+! Google
+@@||analytics.google.com^$domain=analytics.google.com
+@@||clients*.google.com^$~object,domain=google.com
+@@||play.google.com/log^$~object,domain=google.com
+@@||google-analytics.com/analytics.js^$domain=analytics.google.com|luxcinema.com.tw
+@@||google-analytics.com/internal/analytics.js^$domain=google.com
+@@||firestore.googleapis.com/google.firestore^$~object
+@@||csi.gstatic.com^$domain=analytics.google.com
+! FujiTV
+@@||live.fuji.live:9083/global/player.swf
+@@||live.fuji.live:9083/global/player_core4.swf
+@@||live.fuji.live:9083/query/s/*.json
+! Hinet
+@@||enoc.hinet.net/eNoc/swf/map.swf
+! HLSPlayer
+@@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
+@@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
+@@||jsc.mgid.com/h/l/hlsplayer.net.*.js
+! 自己擋自己
+@@||hostsfile.mine.nu^
+! NicoVideo
+@@||live.nicovideo.jp/jsconnector.swf
+@@||live.nicovideo.jp/nicoliveplayer.swf
+@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/dppanel.swf
+@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/NicolivePlayerDictionaryJAJP.swf
+@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/plugintap.swf
+@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/standard.swf
+@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/standardlogic.swf
+! 台大網路測速
+@@||speed.ntu.edu.tw/longtime/speed_new_up.swf
+@@||speed.ntu.edu.tw/multithread/down_fixed_t.swf
+! 雅虎奇摩股市
+@@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
+! ----------------------------------------------------------------------
+||ad.
+||ads.
+.class$object
+.flv$object
+.spl$object
+.swf$object
+^like-jacking-ninja^
+||adbot.tw^$third-party
+||browser-tools.systems
+||go.plurk.com
+||push4check.com
+! ----------------------------------------------------------------------
+ani.gamer.com.tw##a.vast-blocker
+gamme.com.tw##div.adwrpt
+inoreader.com##div.ad_title
+inoreader.com##div.block_article_ad
+plurk.com##section#rightPanel
+yusaani.com##div.headLine
