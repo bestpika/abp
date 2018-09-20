@@ -2,7 +2,7 @@
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
 ! Expires: 1 hour
-! Version: 2018.0915.1
+! Version: 2018.0920.1
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
@@ -18,6 +18,7 @@
 ! Google
 @@||analytics.google.com^$domain=analytics.google.com
 @@||clients*.google.com^$~object,domain=google.com
+@@||mail.google.com^$~object,domain=google.com
 @@||play.google.com/log^$~object,domain=google.com
 @@||google-analytics.com/analytics.js^$domain=analytics.google.com|luxcinema.com.tw
 @@||google-analytics.com/internal/analytics.js^$domain=google.com
