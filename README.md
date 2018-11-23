@@ -11,12 +11,13 @@ https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
-https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
 ! HOSTS
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adaway.org/hosts.txt
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
@@ -73,4 +74,5 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://filterlists.com>
 - <https://adblockplus.org/en/subscriptions>
 - <https://easylist.to>
+- <https://github.com/StevenBlack/hosts>
 - <https://zerodot1.gitlab.io/CoinBlockerListsWeb/>
