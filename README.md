@@ -11,6 +11,7 @@ https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
+https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
