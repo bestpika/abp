@@ -16,8 +16,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-a
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
 ! HOSTS
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://adaway.org/hosts.txt
+https://1hos.cf
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
@@ -38,6 +37,8 @@ https://filters.adtidy.org/extension/ublock/filters/15.txt
 ```
 
 ```list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://mirror1.malwaredomains.com/files/justdomains
