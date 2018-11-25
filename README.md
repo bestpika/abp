@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockPro
 ```list
 https://filters.adtidy.org/extension/chromium/filters/3.txt
 https://filters.adtidy.org/extension/chromium/filters/15.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/15.txt
 ```
 
 ```list
@@ -75,10 +77,17 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 ## 過濾器清單
 
-- <https://hosts-file.net>
-- <https://kb.adguard.com/en/general/adguard-ad-filters>
-- <https://filterlists.com>
+### 1
+
+- <https://1hos.cf>
 - <https://adblockplus.org/en/subscriptions>
+- <https://kb.adguard.com/en/general/adguard-ad-filters>
 - <https://easylist.to>
+- <https://filterlists.com>
+- <https://hosts-file.net>
+
+### 2
+
+- <https://github.com/notracking/hosts-blocklists>
 - <https://github.com/StevenBlack/hosts>
 - <https://zerodot1.gitlab.io/CoinBlockerListsWeb/>
