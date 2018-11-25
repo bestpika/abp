@@ -78,7 +78,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 ## 過濾器清單
 
-### 1
+### 相關網站
 
 - <https://1hos.cf>
 - <https://adblockplus.org/en/subscriptions>
@@ -87,7 +87,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://filterlists.com>
 - <https://hosts-file.net>
 
-### 2
+### 清單
 
 - <https://github.com/notracking/hosts-blocklists>
 - <https://github.com/StevenBlack/hosts>
