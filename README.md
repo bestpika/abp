@@ -1,6 +1,6 @@
 # 廣告退散
 
-- <https://github.com/bestpika/abp>
+- <https://github.com/bestpika/abp/>
 - <https://bestpika.github.io/abp/>
 
 ## 過濾器
@@ -73,7 +73,8 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 ## DNS
 
-- <https://adguard.com/en/adguard-dns/overview.html>
+- <https://gist.github.com/bestpika/007c7e7db983e56035ea7c9bc1e79966>
+- <https://adguard.com/zh_tw/adguard-dns/overview.html>
 
 ## 過濾器清單
 
