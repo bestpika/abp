@@ -22,6 +22,7 @@ https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
 https://hosts-file.net/hjk.txt
 https://hosts-file.net/mmt.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ! AAK
