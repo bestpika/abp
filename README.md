@@ -91,6 +91,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 ### 清單
 
+- <https://github.com/hoshsadiq/adblock-nocoin-list>
 - <https://github.com/notracking/hosts-blocklists>
 - <https://github.com/StevenBlack/hosts>
 - <https://zerodot1.gitlab.io/CoinBlockerListsWeb/>
