@@ -2,7 +2,7 @@
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
 ! Expires: 1 hour
-! Version: 2018.1130.1
+! Version: 2018.1130.2
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
@@ -38,6 +38,8 @@
 @@||jsc.mgid.com/h/l/hlsplayer.net.*.js
 ! 自己擋自己
 @@||hostsfile.mine.nu^
+! MailTrack
+@@||ws.mailtrack.io
 ! NicoVideo
 @@||live.nicovideo.jp/jsconnector.swf
 @@||live.nicovideo.jp/nicoliveplayer.swf
