@@ -15,6 +15,9 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
+! AAK
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
 ! HOSTS
 https://1hos.cf
 https://hosts-file.net/ad_servers.txt
@@ -25,9 +28,6 @@ https://hosts-file.net/mmt.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
-! AAK
-https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
 ```
 
 ```list
