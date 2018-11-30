@@ -50,6 +50,7 @@ https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 
 ```list
 https://1hos.cf
+https://1hos.cf/complete/list.txt
 https://1hos.cf/mini/
 https://1hos.cf/mini/list.txt
 ```
