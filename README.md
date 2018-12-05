@@ -14,7 +14,6 @@ https://filters.adtidy.org/extension/ublock/filters/15.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
-https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/filters/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
