@@ -2,7 +2,7 @@
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
 ! Expires: 1 hour
-! Version: 2018.1218.2
+! Version: 2018.1218.3
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
@@ -33,6 +33,9 @@
 ! Hinet
 @@||enoc.hinet.net/eNoc/swf/map.swf
 ! HackMD
+hackmd.io#@#.btn-github
+hackmd.io#@#.btn-google
+hackmd.io#@#.btn-social
 hackmd.io#@#.social-buttons-container
 ! HLSPlayer
 @@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
