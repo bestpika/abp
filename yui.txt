@@ -2,7 +2,7 @@
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
 ! Expires: 1 hour
-! Version: 2018.1218.1
+! Version: 2018.1218.2
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
@@ -15,6 +15,10 @@
 @@||ainoob.com/bello^
 ! Branch.io
 @@||branch.io^$domain=branch.io
+! FujiTV
+@@||live.fuji.live:9083/global/player.swf
+@@||live.fuji.live:9083/global/player_core4.swf
+@@||live.fuji.live:9083/query/s/*.json
 ! Google
 @@||analytics.google.com^$domain=analytics.google.com
 @@||clients*.google.com^$~object,domain=google.com
@@ -26,12 +30,10 @@
 @@||fonts.googleapis.com
 @@||csi.gstatic.com^$domain=analytics.google.com
 @@||fonts.gstatic.com
-! FujiTV
-@@||live.fuji.live:9083/global/player.swf
-@@||live.fuji.live:9083/global/player_core4.swf
-@@||live.fuji.live:9083/query/s/*.json
 ! Hinet
 @@||enoc.hinet.net/eNoc/swf/map.swf
+! HackMD
+hackmd.io#@#.social-buttons-container
 ! HLSPlayer
 @@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
 @@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
