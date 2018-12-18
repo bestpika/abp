@@ -2,7 +2,7 @@
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
 ! Expires: 1 hour
-! Version: 2018.1218.4
+! Version: 2018.1218.5
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
@@ -71,10 +71,10 @@ pixiv.net#@#.follow-button
 ||adbot.tw^$third-party
 ||browser-tools.systems
 ||daypush.com
-||go.plurk.com
-||l.plurk.com
 ||inewcontentdelivery.info
 ||notification-time.com
+||go.plurk.com
+||l.plurk.com
 ||push4check.com
 ||scupio.com^$third-party
 ||trustednotice.news
