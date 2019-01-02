@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Homepage: https://bestpika.github.io/abp/
 ! Title: 廣告退散
-! Version: 2019.0101.1
+! Version: 2019.0101.2
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
 ! https://adblockplus.org/zh_TW/filters
@@ -93,4 +93,5 @@ pixiv.net##iframe.ad-bigbanner
 plurk.com##section#rightPanel
 solidot.org##div#headads
 solidot.org##div.adv
+solidot.org##div.combined_log
 yusaani.com##div.headLine
