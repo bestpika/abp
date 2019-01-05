@@ -86,6 +86,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://1hos.cf>
 - <https://adblockplus.org/en/subscriptions>
 - <https://kb.adguard.com/en/general/adguard-ad-filters>
+- <https://filters.adtidy.org/windows/filters.json>
 - <https://easylist.to>
 - <https://filterlists.com>
 - <https://hosts-file.net>
