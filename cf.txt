@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 內容農場
-! Version: 2018.0131.1
+! Version: 2019.0118.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
 ||bizroomguang.com
