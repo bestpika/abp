@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0119.1
+! Version: 2019.0120.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -69,6 +69,8 @@ pixiv.net#@#.follow-button
 @@||sx.sudo.host
 ! 雅虎奇摩股市
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
+! YouTube
+youtube.com#@##subscribe-button
 ! ----------------------------------------------------------------------
 ||ad.
 ||ads.
