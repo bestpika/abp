@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 內容農場
-! Version: 2019.0118.1
+! Version: 2019.0123.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
 ||bizroomguang.com
@@ -9,4 +9,5 @@
 ||kknews.cc
 ||ptt01.cc
 ||read01.com
+||teepr.com
 ||wetalk.tw
