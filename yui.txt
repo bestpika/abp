@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0120.1
+! Version: 2019.0125.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -25,6 +25,7 @@
 ! Google
 @@||analytics.google.com^$domain=analytics.google.com
 @@||clients*.google.com^$~object,domain=google.com
+@@||developers.google.com^$document
 @@||mail.google.com^$~object,domain=google.com
 @@||play.google.com/log^$~object,domain=google.com
 @@||google-analytics.com/analytics.js^$domain=analytics.google.com|luxcinema.com.tw
@@ -62,7 +63,7 @@ pixiv.net#@#.follow-button
 ! 中華郵政
 @@||postserv.post.gov.tw/pstmail/main_mail.html$document
 ! 全聯
-@@||pxmart.com.tw$document
+@@||pxmart.com.tw^$document
 ! 愛奇藝
 @@||static.qiyi.com^
 ! sudo.host
