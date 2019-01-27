@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0125.1
+! Version: 2019.0127.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -94,6 +94,8 @@ youtube.com#@##subscribe-button
 ||trustednotice.news
 ! ----------------------------------------------------------------------
 ani.gamer.com.tw##a.vast-blocker
+anime1.me##div#anime-top
+anime1.me##div#anime-top+div
 anime1.me##div[class^=kiwi-ad]+div
 anime1.me##section#execphp-6
 gamme.com.tw##div.adwrpt
