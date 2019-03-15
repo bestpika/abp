@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0315.2
+! Version: 2019.0315.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -46,8 +46,7 @@ hackmd.io#@#.social-buttons-container
 @@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
 @@||jsc.mgid.com/h/l/hlsplayer.net.*.js
 ! JANDI
-@@||track.jandi.com/log/web^$domain=jandi.com
-@@||wcs.naver.net/wcslog.js$domain=jandi.com
+@@||jandi.com^$document
 ! MailTrack
 @@||ws.mailtrack.io
 ! mine.nu
