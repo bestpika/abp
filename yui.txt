@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0315.3
+! Version: 2019.0320.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -8,6 +8,15 @@
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
 ! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+! ----------------------------------------------------------------------
+! 銀行
+@@||cathaybk.com.tw^$document
+@@||dbs.com.tw^$document
+@@||esunbank.com.tw^$document
+@@||ipost.post.gov.tw^$document
+@@||mybank.com.tw^$document
+@@||richart.tw^$document
+@@||taishinbank.com.tw^$document
 ! ----------------------------------------------------------------------
 ! 嗶哩嗶哩
 @@||acgvideo.com/*.flv
