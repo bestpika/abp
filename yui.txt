@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0330.1
+! Version: 2019.0330.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -41,6 +41,7 @@
 @@||google-analytics.com/internal/analytics.js^$domain=google.com
 @@||firestore.googleapis.com/google.firestore^$~object
 @@||fonts.googleapis.com
+@@||googletagmanager.com/gtag^$domain=leletobuy.com
 @@||csi.gstatic.com^$domain=analytics.google.com
 @@||fonts.gstatic.com
 ! Hinet
@@ -59,7 +60,7 @@ hackmd.io#@#.social-buttons-container
 ! MailTrack
 @@||ws.mailtrack.io
 ! mine.nu
-@@||hostsfile.mine.nu^
+@@||hostsfile.mine.nu
 ! NicoVideo
 @@||live.nicovideo.jp/jsconnector.swf
 @@||live.nicovideo.jp/nicoliveplayer.swf
@@ -76,10 +77,10 @@ pixiv.net#@#.follow-button
 ! 全聯
 @@||pxmart.com.tw^$document
 ! 愛奇藝
-@@||static.qiyi.com^
+@@||static.qiyi.com
 ! 蒸汽動力
-@@||store.steampowered.com^$document
 @@||steamcdn-a.akamaihd.net^$image
+@@||store.steampowered.com^$document
 ! sudo.host
 @@||sx.sudo.host
 ! 雅虎奇摩股市
