@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0330.2
+! Version: 2019.0405.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -9,7 +9,7 @@
 ! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! ----------------------------------------------------------------------
-! 銀行
+! Banks
 @@||cathaybk.com.tw^$document
 @@||dbs.com.tw^$document
 @@||esunbank.com.tw^$document
@@ -18,39 +18,27 @@
 @@||richart.tw^$document
 @@||taishinbank.com.tw^$document
 ! ----------------------------------------------------------------------
-! 嗶哩嗶哩
-@@||acgvideo.com/*.flv
 ! 二箱
 @@||ainoob.com/bello^
-! Branch.io
-@@||branch.io^$domain=branch.io
-! FujiTV
-@@||live.fuji.live:9083/global/player.swf
-@@||live.fuji.live:9083/global/player_core4.swf
-@@||live.fuji.live:9083/query/s/*.json
+! 嗶哩嗶哩
+@@||acgvideo.com/*.flv
 ! GitHub
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
 ! Google
-@@||analytics.google.com^$domain=analytics.google.com
-@@||clients*.google.com^$~object,domain=google.com
+@@||analytics.google.com^$document
+@@||clients*.google.com^
 @@||developers.google.com^$document
-@@||mail.google.com^$~object,domain=google.com
-@@||play.google.com/log^$~object,domain=google.com
-@@||google-analytics.com/analytics.js^$domain=analytics.google.com|luxcinema.com.tw
-@@||google-analytics.com/internal/analytics.js^$domain=google.com
-@@||firestore.googleapis.com/google.firestore^$~object
-@@||fonts.googleapis.com
+@@||mail.google.com^$document
+@@||play.google.com/log^$domain=google.com
+@@||google-analytics.com/analytics.js^$domain=luxcinema.com.tw
+@@||firestore.googleapis.com/google.firestore^
 @@||googletagmanager.com/gtag^$domain=leletobuy.com
-@@||csi.gstatic.com^$domain=analytics.google.com
-@@||fonts.gstatic.com
+# Google Fonts
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
 ! Hinet
 @@||enoc.hinet.net/eNoc/swf/map.swf
-! HackMD
-hackmd.io#@#.btn-github
-hackmd.io#@#.btn-google
-hackmd.io#@#.btn-social
-hackmd.io#@#.social-buttons-container
 ! HLSPlayer
 @@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
 @@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
@@ -58,65 +46,55 @@ hackmd.io#@#.social-buttons-container
 ! JANDI
 @@||jandi.com^$document
 ! MailTrack
-@@||ws.mailtrack.io
+@@||ws.mailtrack.io^
 ! mine.nu
-@@||hostsfile.mine.nu
-! NicoVideo
-@@||live.nicovideo.jp/jsconnector.swf
-@@||live.nicovideo.jp/nicoliveplayer.swf
-@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/dppanel.swf
-@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/NicolivePlayerDictionaryJAJP.swf
-@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/plugintap.swf
-@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/standard.swf
-@@||nicolive.cdn.nimg.jp/live/nimg/public/swf/standardlogic.swf
+@@||hostsfile.mine.nu^
 ! pixiv
 @@||d.pixiv.org/file^
-pixiv.net#@#.follow-button
 ! 中華郵政
 @@||postserv.post.gov.tw/pstmail/main_mail.html$document
 ! 全聯
 @@||pxmart.com.tw^$document
-! 愛奇藝
-@@||static.qiyi.com
 ! 蒸汽動力
 @@||steamcdn-a.akamaihd.net^$image
 @@||store.steampowered.com^$document
 ! sudo.host
-@@||sx.sudo.host
+@@||sx.sudo.host^$document
 ! 雅虎奇摩股市
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
 ! YouTube
-youtube.com#@##related
+youtube.com#@#div#related
 ! ----------------------------------------------------------------------
 ||ad.
 ||ads.
+||adv.
 .class$object
 .flv$object
 .spl$object
 .swf$object
 ^like-jacking-ninja^
 ||adbot.tw^$third-party
-||bestadbid.com
-||browser-tools.systems
-||daypush.com
+||bestadbid.com^
+||browser-tools.systems^
+||daypush.com^
 ||myweb.hinet.net/_myweb/hiad^
-||inewcontentdelivery.info
-||notification-time.com
-||go.plurk.com
-||l.plurk.com
-||push4check.com
+||inewcontentdelivery.info^
+||notification-time.com^
+||go.plurk.com^
+||l.plurk.com^
+||push4check.com^
 ||scupio.com^$third-party
-||trustednotice.news
+||trustednotice.news^
 ! ----------------------------------------------------------------------
-ani.gamer.com.tw##a.vast-blocker
 anime1.me##div#anime-top
 anime1.me##div#anime-top+div
 anime1.me##div[class^=kiwi-ad]+div
 anime1.me##section#execphp-6
-gamme.com.tw##div.adwrpt
 gamme.com.tw##*[class^="sidead_"]
+gamme.com.tw##div.adwrpt
 inoreader.com##div.ad_title
 inoreader.com##div.block_article_ad
+pixiv.net##div#js-mount-point-sketch-notification
 pixiv.net##iframe.ad-bigbanner
 plurk.com##div#resp_banner_ads
 plurk.com##section#rightPanel
