@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0407.1
+! Version: 2019.0408.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -22,6 +22,8 @@
 @@||ainoob.com/bello^
 ! 嗶哩嗶哩
 @@||acgvideo.com/*.flv
+! ebb.io
+@@||ebb.io^$document
 ! GitHub
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
