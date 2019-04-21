@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0421.1
+! Version: 2019.0421.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -10,7 +10,7 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! ----------------------------------------------------------------------
 ! 注入
-storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
+storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactive'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 ! Banks
 @@||cathaybk.com.tw^$important,document,~extension
 @@||dbs.com.tw^$important,document,~extension
