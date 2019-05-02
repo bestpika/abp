@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0502.2
+! Version: 2019.0502.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -14,14 +14,14 @@ ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/')
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);
 storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactive'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 ! Banks
-@@||cathaybk.com.tw^$important,document,~extension
-@@||dbs.com.tw^$important,document,~extension
-@@||esunbank.com.tw^$important,document,~extension
-@@||ipost.post.gov.tw^$important,document,~extension
-@@||mybank.com.tw^$important,document,~extension
-@@||richart.tw^$important,document,~extension
-@@||scsb.com.tw^$important,document,~extension
-@@||taishinbank.com.tw^$important,document,~extension
+@@||cathaybk.com.tw^$important,document
+@@||dbs.com.tw^$important,document
+@@||esunbank.com.tw^$important,document
+@@||ipost.post.gov.tw^$important,document
+@@||mybank.com.tw^$important,document
+@@||richart.tw^$important,document
+@@||scsb.com.tw^$important,document
+@@||taishinbank.com.tw^$important,document
 ! ----------------------------------------------------------------------
 ! 二箱
 @@||ainoob.com/bello^
