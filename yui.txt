@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0503.1
+! Version: 2019.0503.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -68,6 +68,7 @@ storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactiv
 @@||pxmart.com.tw^$important,document,~extension
 ! 蒸汽動力
 @@||steamcdn-a.akamaihd.net^$image
+@@||esapi.isthereanydeal.com^
 @@||store.steampowered.com^$important,elemhide,content,urlblock
 ! sudo.host
 @@||sx.sudo.host^$important,document,~extension
