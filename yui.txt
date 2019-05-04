@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0503.4
+! Version: 2019.0504.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -12,7 +12,7 @@
 ! 注入
 ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelector('.over18-button-container>button').click()}};
 steamdb.info#%#if(!document.cookie.match(/cc=tw/)){document.cookie='cc=tw;path=/';location.reload()};
-store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='lastagecheckage=1-1-1980;path=/';
+store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='lastagecheckage=1-1-1980;path=/'document.cookie='wants_mature_content=1';
 storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactive'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 ! Banks
 @@||cathaybk.com.tw^$important,document
