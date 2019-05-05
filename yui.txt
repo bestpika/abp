@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0504.2
+! Version: 2019.0505.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -78,7 +78,8 @@ storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactiv
 ! YouTube
 @@||youtube.com/api^$domain=youtube.com
 @@||youtube.com/ptracking^$domain=youtube.com
-youtube.com#@#div#related
+youtube.com#@#div#related$important
+youtube.com#@#div.video-ads.ytp-ad-module$important
 ! ----------------------------------------------------------------------
 ||ad.
 ||ads.
