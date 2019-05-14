@@ -1,15 +1,15 @@
 [Adblock Plus]
 ! Title: 內容農場
-! Version: 2019.0405.1
+! Version: 2019.0514.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
-||bizroomguang.com
-||clickme.net
-||bomb01.com
-||coco01.net
-||kknews.cc
-||orgs.one
-||ptt01.cc
-||read01.com
-||teepr.com
-||wetalk.tw
+||bizroomguang.com^
+||clickme.net^
+||bomb01.com^
+||coco01.net^
+||kknews.cc^
+||orgs.one^
+||ptt01.cc^
+||read01.com^
+||teepr.com^
+||wetalk.tw^
