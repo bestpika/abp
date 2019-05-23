@@ -91,6 +91,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://easylist.to>
 - <https://filterlists.com>
 - <https://hosts-file.net>
+- <https://zeltser.com/malicious-ip-blocklists/>
 
 ### 清單
 
