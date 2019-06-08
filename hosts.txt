@@ -1,5 +1,6 @@
-# 2019.0608.1
+# 2019.0608.2
 # Whitelist
 @@||the.dns^
 # IPv4
+127.0.0.1       the.dns
 # IPv6
