@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0610.1
+! Version: 2019.0612.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -14,7 +14,8 @@ gamme.com.tw#%#document.onreadystatechange=()=>{if(document.readyState==='comple
 ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelector('.over18-button-container>button').click()}};
 steamdb.info#%#if(!document.cookie.match(/cc=tw/)){document.cookie='cc=tw;path=/';location.reload()};
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='bGameHighlightAutoplayDisabled=true;path=/';
-storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='interactive'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
+storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
+twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match(/night_mode=1/)){document.cookie='rweb_optin=on;path=/';document.cookie='night_mode=1;path=/';location.reload()};
 ! Banks
 @@||cathaybk.com.tw^$important,document
 @@||dbs.com.tw^$important,document
