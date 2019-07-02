@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0702.1
+! Version: 2019.0702.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -10,7 +10,7 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! ----------------------------------------------------------------------
 ! 注入
-tw.appledaily.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelector('.articulum').style.visibility="visible";}};
+.appledaily.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelector('.articulum').style.visibility="visible";}};
 gamme.com.tw#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){MemberUI.r18WarningClose()}};document.cookie='r18=1;domain=gamme.com.tw;path=/';
 ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelector('.over18-button-container>button').click()}};
 steamdb.info#%#if(!document.cookie.match(/cc=tw/)){document.cookie='cc=tw;path=/';location.reload()};
