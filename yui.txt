@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0703.4
+! Version: 2019.0703.5
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -97,6 +97,7 @@ youtube.com#@#div#related
 .swf$object
 ^like-jacking-ninja^
 ||nqtnu.cn^
+||pixiv.net/OneSignalSDKWorker.js
 ||plurk.com/go^$empty
 ||go.plurk.com^$empty
 ||l.plurk.com^$empty
