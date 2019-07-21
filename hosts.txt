@@ -1,7 +1,8 @@
-# 2019.0610.1
+# 2019.0721.1
 # --------------------------------------------------
 # Whitelist
 @@||google-analytics.com^
+@@||browser.sentry-cdn.com^
 @@||the.dns^
 # IPv4
 127.0.0.1       the.dns
