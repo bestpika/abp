@@ -1,6 +1,9 @@
-# 2019.0721.3
+# 2019.0826.1
 # --------------------------------------------------
 # Whitelist
+@@||amplitude.com^
+@@||doubleclick.com^
+@@||ensighten.com^
 @@||google-analytics.com^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
