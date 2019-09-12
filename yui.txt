@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0911.4
+! Version: 2019.0912.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -121,6 +121,9 @@ pixiv.net##.ad
 pixiv.net##*[class^="ad-"]
 pixiv.net##*[class^="ads-"]
 pixiv.net##div#js-mount-point-sketch-notification
+pixivision.net##div._floated-bottom-bar
+pixivision.net##div.am__share-buttons
+pixivision.net##div.sidebar-contents-container._sticky
 plurk.com##div#resp_banner_ads
 plurk.com##section#rightPanel
 solidot.org##div#headads
