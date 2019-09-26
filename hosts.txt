@@ -1,11 +1,12 @@
-# 2019.0826.3
+# 2019.0926.1
 # --------------------------------------------------
 # Whitelist
-# @@||amplitude.com^
+@@||amplitude.com^
 # @@||doubleclick.com^
 # @@||doubleclick.net^
 # @@||ensighten.com^
 @@||google-analytics.com^
+@@||gleam.io^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 # IPv4
