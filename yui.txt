@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.0928.6
+! Version: 2019.0928.7
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -13,6 +13,7 @@
 appledaily.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('article div').forEach(x=>x.style.visibility='visible')}};
 dlsite.com#%#if(!document.cookie.match(/adultchecked=1/)){document.cookie='adultchecked=1;path=/;domain=dlsite.com';document.cookie='locale=ja-jp;path=/;domain=dlsite.com';location.reload()};
 gamme.com.tw#%#if(!document.cookie.match(/r18=1/)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
+www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelector('.over18-button-container>button').click()}};
 www.ptt.cc#%#if(!document.cookie.match(/over18=1/)){document.cookie='over18=1;path=/';location.reload()};
 steamdb.info#%#if(!document.cookie.match(/cc=tw/)){document.cookie='cc=tw;path=/';location.reload()};
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='bGameHighlightAutoplayDisabled=true;path=/';
