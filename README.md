@@ -90,6 +90,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 - <https://filters.adtidy.org/mac_v2/filters.json>
 - <https://easylist.to>
 - <https://filterlists.com>
+- <https://firebog.net>
 - <https://hosts-file.net>
 - <https://zeltser.com/malicious-ip-blocklists/>
 
