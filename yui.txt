@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.1002.1
+! Version: 2019.1002.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -16,7 +16,6 @@ fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}
 gamme.com.tw#%#if(!document.cookie.match(/r18=1/)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
 www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelectorAll('.over18-button-container>button[name="yes"]').forEach(x=>x.click())}};
 www.ptt.cc#%#if(!document.cookie.match(/over18=1/)){document.cookie='over18=1;path=/';location.reload()};
-steamdb.info#%#if(!document.cookie.match(/__Host-cc=tw/)){document.cookie='__Host-cc=tw;path=/';location.reload()};
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='bGameHighlightAutoplayDisabled=true;path=/';
 storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('.ProfileWarningTimeline-button').forEach(x=>x.click());document.querySelectorAll('.Tombstone-action').forEach(x=>x.click());if(document.querySelector('.stream')){(new MutationObserver(mutations=>document.querySelectorAll('.Tombstone-action').forEach(x=>x.click()))).observe(document.querySelector('.stream'),{childList:true,subtree:true})}}};
