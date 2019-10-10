@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.1002.2
+! Version: 2019.1010.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -78,16 +78,17 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 ! 解決擋住分析就沒辦法登出其他設備的蠢問題
 @@||plurk.com/settings/sessions$urlblock
 ! 中華郵政
-@@||postserv.post.gov.tw/pstmail/main_mail.html$important,document,~extension
+@@||postserv.post.gov.tw/pstmail/main_mail.html$important,content,elemhide,urlblock
 ! 全聯
-@@||pxmart.com.tw^$important,document,~extension
+@@||pxmart.com.tw^$important,content,elemhide,urlblock
 ! 蒸汽動力
 @@||steamcdn-a.akamaihd.net^
 @@||steamstore-a.akamaihd.net^
 @@||esapi.isthereanydeal.com^
-@@||store.steampowered.com^$important,elemhide,content,urlblock
+@@||steamcommunity.com^$important,content,elemhide,urlblock
+@@||store.steampowered.com^$important,content,elemhide,urlblock
 ! sudo.host
-@@||sx.sudo.host^$important,document,~extension
+@@||sx.sudo.host^$important,urlblock
 ! 雅虎奇摩股市
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
 ! YouTube
