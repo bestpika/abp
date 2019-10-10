@@ -15,8 +15,9 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://280blocker.net/files/280blocker_adblock.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
