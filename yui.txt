@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.1015.2
+! Version: 2019.1015.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -29,6 +29,7 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 @@||ipost.post.gov.tw^$important,document
 @@||kokobank.com^$important,document
 @@||mybank.com.tw^$important,document
+@@||o-bank.com^$important,document
 @@||richart.tw^$important,document
 @@||scsb.com.tw^$important,document
 @@||sinopac.com^$important,document
