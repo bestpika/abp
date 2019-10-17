@@ -1,4 +1,4 @@
-# 2019.0926.1
+# 2019.1017.1
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
@@ -9,6 +9,9 @@
 @@||gleam.io^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
+# Blocklist
+||ettoday.com^
+||pixnet.com^
 # IPv4
 127.0.0.1       the.dns
 # IPv6
