@@ -1,12 +1,11 @@
-# 2019.1017.1
+# 2019.1019.1
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
-# @@||doubleclick.com^
-# @@||doubleclick.net^
-# @@||ensighten.com^
+@@||dpbolvw.net^
 @@||google-analytics.com^
 @@||gleam.io^
+@@||jdoqocy.com^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 # Blocklist
