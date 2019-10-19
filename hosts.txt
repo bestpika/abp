@@ -1,7 +1,8 @@
-# 2019.1019.1
+# 2019.1019.2
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
+@@||dotomi.com^
 @@||dpbolvw.net^
 @@||google-analytics.com^
 @@||gleam.io^
