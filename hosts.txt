@@ -1,13 +1,9 @@
-# 2019.1019.3
+# 2019.1019.4
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
-@@||dotomi.com^
-@@||dpbolvw.net^
-@@||emjcd.com^
 @@||google-analytics.com^
 @@||gleam.io^
-@@||jdoqocy.com^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 # Blocklist
