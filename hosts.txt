@@ -1,4 +1,4 @@
-# 2019.1020.1
+# 2019.1024.1
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
@@ -7,6 +7,7 @@
 @@||gleam.io^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
+@@||s.youtube.com^
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
