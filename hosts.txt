@@ -1,10 +1,11 @@
-# 2019.1024.1
+# 2019.1026.1
 # --------------------------------------------------
 # Whitelist
 @@||amplitude.com^
 @@||forms.gle^
 @@||google-analytics.com^
 @@||gleam.io^
+@@||groupees.com^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 @@||s.youtube.com^
