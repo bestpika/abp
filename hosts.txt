@@ -1,7 +1,6 @@
-# 2019.1026.4
+# 2019.1026.5
 # --------------------------------------------------
 # Whitelist
-@@||amplitude.com^
 @@||forms.gle^
 @@||gleam.io^
 @@||feedburner.google.com^
