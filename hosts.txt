@@ -1,4 +1,4 @@
-# 2019.1026.5
+# 2019.1027.1
 # --------------------------------------------------
 # Whitelist
 @@||forms.gle^
@@ -7,6 +7,7 @@
 @@||google-analytics.com^
 @@||groupees.com^
 @@||cdn.muut.com^
+@@||tshop.r10s.jp^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 @@||tags.tiqcdn.com^
