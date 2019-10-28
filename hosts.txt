@@ -1,6 +1,7 @@
-# 2019.1028.2
+# 2019.1028.3
 # --------------------------------------------------
 # Whitelist
+@@||ocsp.*.amazontrust.com^
 @@||forms.gle^
 @@||gleam.io^
 @@||feedburner.google.com^
