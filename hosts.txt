@@ -1,4 +1,4 @@
-# 2019.1028.1
+# 2019.1028.2
 # --------------------------------------------------
 # Whitelist
 @@||forms.gle^
@@ -9,6 +9,7 @@
 @@||cdn.muut.com^
 @@||tshop.r10s.jp^
 @@||cdn.ravenjs.com^
+@@||ocsp.sectigo.com^
 @@||browser.sentry-cdn.com^
 @@||the.dns^
 @@||tags.tiqcdn.com^
