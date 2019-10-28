@@ -1,4 +1,4 @@
-# 2019.1028.3
+# 2019.1028.4
 # --------------------------------------------------
 # Whitelist
 @@||ocsp.*.amazontrust.com^
@@ -7,6 +7,7 @@
 @@||feedburner.google.com^
 @@||google-analytics.com^
 @@||groupees.com^
+@@||mailtrack.io^
 @@||cdn.muut.com^
 @@||tshop.r10s.jp^
 @@||cdn.ravenjs.com^
