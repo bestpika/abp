@@ -1,6 +1,7 @@
-# 2019.1030.1
+# 2019.1030.2
 # --------------------------------------------------
 # Whitelist
+@@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
 @@||forms.gle^
 @@||gleam.io^
