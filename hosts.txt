@@ -1,4 +1,4 @@
-# 2019.1028.4
+# 2019.1030.1
 # --------------------------------------------------
 # Whitelist
 @@||ocsp.*.amazontrust.com^
@@ -16,6 +16,7 @@
 @@||the.dns^
 @@||tags.tiqcdn.com^
 @@||s.youtube.com^
+@@||static.zdassets.com^
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
