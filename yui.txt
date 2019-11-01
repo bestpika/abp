@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.1017.3
+! Version: 2019.1101.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -40,25 +40,25 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 ! 嗶哩嗶哩
 @@||acgvideo.com/*.flv
 ! ebb.io
-@@||ebb.io^$important,document,~extension
+@@||ebb.io^$document,~extension
 ! DLsite
-@@||banner.eisys-bcs.jp^$important,domain=dlsite.com
-! 空腹熊貓
+@@||banner.eisys-bcs.jp^$domain=dlsite.com
+! foodpanda
 @@||d2zah9y47r7bi2.cloudfront.net^$domain=foodpanda.com.tw
 ! GitHub
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
 ! Google
-@@||google.com/recaptcha^
-@@||analytics.google.com^$important,document
-@@||clients*.google.com^
-@@||developers.google.com^$important,document
-@@||docs.google.com^$important,document,~extension
-@@||mail.google.com^$important,document,~extension
+@@||analytics.google.com^$document
+@@||clients*.google.com^$domain=google.com
+@@||console.cloud.google.com^
+@@||mail.google.com^$document
 @@||play.google.com/log^$domain=google.com
+@@||www.google.com/recaptcha^
 @@||google-analytics.com/analytics.js^$domain=luxcinema.com.tw
 @@||firestore.googleapis.com/google.firestore^
 @@||googletagmanager.com/gtag^$domain=leletobuy.com
+@@||ci*.googleusercontent.com/proxy^$domain=google.com
 # Google Fonts
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
@@ -71,7 +71,7 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 ! IsThereAnyDeal
 @@||esapi.isthereanydeal.com^
 ! JANDI
-@@||jandi.com^$important,document,~extension
+@@||jandi.com^$document,~extension
 ! MailTrack
 @@||ws.mailtrack.io^
 ! mine.nu
@@ -82,17 +82,17 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 ! 解決擋住分析就沒辦法登出其他設備的蠢問題
 @@||plurk.com/settings/sessions$urlblock
 ! 中華郵政
-@@||postserv.post.gov.tw/pstmail/main_mail.html$important,content,elemhide,urlblock
+@@||postserv.post.gov.tw/pstmail/main_mail.html$content,elemhide,urlblock
 ! 全聯
-@@||pxmart.com.tw^$important,content,elemhide,urlblock
+@@||pxmart.com.tw^$content,elemhide,urlblock
 ! 蒸汽動力
-! @@||steamcdn-a.akamaihd.net^$important
-! @@||steamstore-a.akamaihd.net^$important
-@@||esapi.isthereanydeal.com^$important
-! @@||steamcommunity.com^$important,content,elemhide,urlblock
-! @@||store.steampowered.com^$important,content,elemhide,urlblock
+@@||steamcdn-a.akamaihd.net^
+@@||steamstore-a.akamaihd.net^
+@@||esapi.isthereanydeal.com^
+@@||steamcommunity.com^$content,elemhide,urlblock
+@@||steampowered.com^$content,elemhide,urlblock
 ! sudo.host
-@@||sx.sudo.host^$important,urlblock
+@@||sx.sudo.host^$urlblock
 ! 雅虎奇摩股市
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
 ! YouTube
