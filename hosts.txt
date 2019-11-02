@@ -1,8 +1,9 @@
-# 2019.1030.2
+# 2019.1102.1
 # --------------------------------------------------
 # Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
+@@||graph.facebook.com^
 @@||forms.gle^
 @@||gleam.io^
 @@||feedburner.google.com^
