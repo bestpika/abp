@@ -1,4 +1,4 @@
-# 2019.1102.1
+# 2019.1106.1
 # --------------------------------------------------
 # Whitelist
 @@||live.adyen.com^
@@ -11,6 +11,7 @@
 @@||groupees.com^
 @@||mailtrack.io^
 @@||cdn.muut.com^
+@@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
 @@||cdn.ravenjs.com^
 @@||ocsp.sectigo.com^
