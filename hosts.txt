@@ -1,4 +1,4 @@
-# 2019.1108.2
+# 2019.1124.1
 # --------------------------------------------------
 # Whitelist
 @@||live.adyen.com^
@@ -8,13 +8,14 @@
 @@||gleam.io^
 @@||feedburner.google.com^
 @@||google-analytics.com^
-@@||ci*.googleusercontent.com^
+@@||googleusercontent.com^
 @@||groupees.com^
 @@||mailtrack.io^
 @@||cdn.muut.com^
 @@||neowin.net^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
+@@||p.typekit.net^
 @@||cdn.ravenjs.com^
 @@||ocsp.sectigo.com^
 @@||browser.sentry-cdn.com^
