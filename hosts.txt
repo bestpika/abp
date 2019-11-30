@@ -1,4 +1,4 @@
-# 2019.1124.1
+# 2019.1130.1
 # --------------------------------------------------
 # Whitelist
 @@||live.adyen.com^
@@ -13,6 +13,7 @@
 @@||mailtrack.io^
 @@||cdn.muut.com^
 @@||neowin.net^
+@@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
 @@||p.typekit.net^
