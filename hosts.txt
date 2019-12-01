@@ -1,5 +1,9 @@
-# 2019.1130.1
+# 2019.1201.1
 # --------------------------------------------------
+# AdGuard
+@@||adguard.com^
+@@||adguard.org^
+@@||adtidy.org^
 # Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
