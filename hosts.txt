@@ -1,4 +1,4 @@
-# 2019.1208.1
+# 2019.1208.2
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -16,7 +16,7 @@
 @@||groupees.com^
 @@||mailtrack.io^
 @@||cdn.muut.com^
-@@||nakanohito.jp^
+# @@||nakanohito.jp^
 @@||neowin.net^
 @@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
