@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2019.1209.1
+! Version: 2019.1210.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -90,6 +90,12 @@ twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match
 @@||postserv.post.gov.tw/pstmail/main_mail.html$content,elemhide,urlblock
 ! 全聯
 @@||pxmart.com.tw^$content,elemhide,urlblock
+! 沒屋頂首頁
+@@||c.rimg.com.tw^$domain=ruten.com.tw
+@@||ahd.ruten.com.tw^$domain=ruten.com.tw
+www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
+www.ruten.com.tw#@#.adslot
+www.ruten.com.tw#@#.adver
 ! 蒸汽動力
 @@||steamcdn-a.akamaihd.net^
 @@||steamstore-a.akamaihd.net^
@@ -123,7 +129,7 @@ youtube.com#@#div#related
 ! ----------------------------------------------------------------------
 anime1.me##div#anime-top
 anime1.me##div#anime-top+div
-anime1.me##div[class^=kiwi-ad]+div
+anime1.me##div[class^="kiwi-ad"]+div
 anime1.me##section#execphp-6
 m.cnyes.com##div._12E
 m.cnyes.com##div._3Yy
