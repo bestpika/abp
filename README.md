@@ -5,7 +5,9 @@
 
 ## 過濾器
 
-```list
+### Main
+
+```
 ! ABP
 https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
@@ -33,14 +35,9 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ```
 
-```list
-https://filters.adtidy.org/extension/chromium/filters/3.txt
-https://filters.adtidy.org/extension/chromium/filters/15.txt
-https://filters.adtidy.org/extension/ublock/filters/3.txt
-https://filters.adtidy.org/extension/ublock/filters/15.txt
-```
+### Other
 
-```list
+```
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
@@ -51,24 +48,47 @@ https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 ```
 
-```list
+### AdGuard
+
+```
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://filters.adtidy.org/extension/chromium/filters/15.txt
+---
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/15.txt
+```
+
+### 1hosts
+
+```
 https://1hos.cf
-https://1hos.cf/complete/list.txt
 https://1hos.cf/mini/
+---
+https://1hos.cf/complete/list.txt
 https://1hos.cf/mini/list.txt
 ```
 
-```list
-! LINK
+### Disconnect
+
+```
 https://disconnect.me/lists/adfilter
 https://disconnect.me/lists/basicfilter
 https://disconnect.me/lists/malvertising
 https://disconnect.me/lists/malwarefilter
-! RAW
+---
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+```
+
+### Windscribe
+
+```
+https://assets.windscribe.com/extension/ws/easylist.txt
+https://assets.windscribe.com/extension/ws/easyprivacy.txt
+https://assets.windscribe.com/extension/ws/malwaredomains.txt
+https://assets.windscribe.com/extension/ws/fanboy-social.txt
 ```
 
 ## GitHub CDN
