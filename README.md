@@ -100,7 +100,7 @@ https://assets.windscribe.com/extension/ws/fanboy-social.txt
 ## DNS
 
 - <https://gist.github.com/bestpika/007c7e7db983e56035ea7c9bc1e79966>
-- <https://adguard.com/zh_tw/adguard-dns/overview.html>
+- <https://adguard.com/en/adguard-dns/overview.html>
 
 ## 過濾器清單
 
