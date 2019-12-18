@@ -1,4 +1,4 @@
-# 2019.1216.1
+# 2019.1218.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -27,8 +27,10 @@
 @@||cdn.ravenjs.com^
 @@||ocsp.sectigo.com^
 @@||browser.sentry-cdn.com^
+@@||crash.steampowered.com^
 @@||the.dns^
 @@||tags.tiqcdn.com^
+@@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
 # Blocklist
