@@ -1,4 +1,4 @@
-# 2019.1219.1
+# 2019.1219.2
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -7,8 +7,8 @@
 # Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
-# 日本郵局
-@@||post-japanpost.durasite.net^
+# 某個 CDN 服務
+@@||durasite.net^
 @@||graph.facebook.com^
 @@||firebaseio.com^
 @@||forms.gle^
