@@ -1,4 +1,4 @@
-# 2019.1229.1
+# 2019.1229.2
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -10,8 +10,8 @@
 # 某個 CDN 服務
 @@||durasite.net^
 @@||graph.facebook.com^
-@@||firebaseio.com^
 @@||fastly.net^
+@@||firebaseio.com^
 @@||forms.gle^
 @@||gleam.io^
 @@||feedburner.google.com^
@@ -20,6 +20,7 @@
 @@||googleusercontent.com^
 @@||groupees.com^
 @@||mailtrack.io^
+@@||marfeelcdn.com^
 @@||cdn.muut.com^
 # @@||nakanohito.jp^
 @@||neowin.net^
