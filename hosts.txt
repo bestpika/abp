@@ -1,4 +1,4 @@
-# 2019.1219.2
+# 2019.1229.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -11,6 +11,7 @@
 @@||durasite.net^
 @@||graph.facebook.com^
 @@||firebaseio.com^
+@@||fastly.net^
 @@||forms.gle^
 @@||gleam.io^
 @@||feedburner.google.com^
