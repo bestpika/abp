@@ -1,4 +1,4 @@
-# 2019.1229.2
+# 2020.0103.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -17,8 +17,10 @@
 @@||feedburner.google.com^
 @@||gstaticadssl.l.google.com^
 @@||google-analytics.com^
+@@||fonts.googleapis.com^
 @@||googleusercontent.com^
 @@||groupees.com^
+@@||fonts.gstatic.com^
 @@||mailtrack.io^
 @@||marfeelcdn.com^
 @@||cdn.muut.com^
