@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0111.1
+! Version: 2020.0119.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -10,7 +10,6 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! ----------------------------------------------------------------------
 ! 注入
-appledaily.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('article div').forEach(x=>x.style.visibility='visible')}};
 www.dlsite.com#%#if(!document.cookie.match(/adultchecked=1/)){document.cookie='adultchecked=1;path=/;domain=dlsite.com';document.cookie='locale=ja-jp;path=/;domain=dlsite.com';location.reload()};
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#if(!document.cookie.match(/r18=1/)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
@@ -130,6 +129,9 @@ anime1.me##div#anime-top
 anime1.me##div#anime-top+div
 anime1.me##div[class^="kiwi-ad"]+div
 anime1.me##section#execphp-6
+appledaily.com##div.omoPaywall
+appledaily.com##div..paywall_fade
+appledaily.com#$#div#article-body>div#articleBody{height:100%!important;}
 m.cnyes.com##div._12E
 m.cnyes.com##div._3Yy
 blog.fc2.com##div#fc2_bottom_bnr
