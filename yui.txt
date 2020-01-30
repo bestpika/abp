@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0126.1
+! Version: 2020.0130.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -11,17 +11,17 @@
 ! ----------------------------------------------------------------------
 ! 注入
 appledaily.com#%#;(()=>{const date=new Date();date.setTime(date.getTime()-86400);const aid=document.cookie.match(/articleid(.+?)=/i);if(aid){document.cookie=`articleId${aid[1]}=;path=/;expires=${date.toUTCString()}`}})();
-www.dlsite.com#%#if(!document.cookie.match(/adultchecked=1/)){document.cookie='adultchecked=1;path=/;domain=dlsite.com';location.reload()};
+www.dlsite.com#%#if(!(/adultchecked=1/).test(document.cookie)){document.cookie='adultchecked=1;path=/;domain=dlsite.com';document.cookie='locale=ja-jp;path=/;domain=dlsite.com';location.reload()};
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
-gamme.com.tw#%#if(!document.cookie.match(/r18=1/)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
-www.humblebundle.com#%#if(!document.cookie.match(/hb_age_check/)){document.cookie='hb_age_check=18;path=/';location.reload()};
+gamme.com.tw#%#if(!(/r18=1/).test(document.cookie)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
+www.humblebundle.com#%#if(!(/hb_age_check/).test(document.cookie)){document.cookie='hb_age_check=18;path=/';location.reload()};
 www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelectorAll('.over18-button-container>button[name="yes"]').forEach(x=>x.click())}};
-www.ptt.cc#%#if(!document.cookie.match(/over18=1/)){document.cookie='over18=1;path=/';location.reload()};
+www.ptt.cc#%#if(!(/over18=1/).test(document.cookie)){document.cookie='over18=1;path=/';location.reload()};
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='labs_search=1;path=/';
 store.steampowered.com#%#document.cookie='bGameHighlightAudioEnabled=false;path=/';document.cookie='bGameHighlightAutoplayDisabled=true;path=/';document.cookie='wants_mature_content=1;path=/';document.cookie='birthtime=22503171;path=/';
 storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('.ProfileWarningTimeline-button').forEach(x=>x.click());document.querySelectorAll('.Tombstone-action').forEach(x=>x.click());if(document.querySelector('.stream')){(new MutationObserver(mutations=>document.querySelectorAll('.Tombstone-action').forEach(x=>x.click()))).observe(document.querySelector('.stream'),{childList:true,subtree:true})}}};
-twitter.com#%#if(!document.cookie.match(/rweb_optin=on/)||!document.cookie.match(/night_mode=1/)){document.cookie='rweb_optin=on;path=/;domain=twitter.com';document.cookie='night_mode=1;path=/;domain=twitter.com';location.reload()};
+twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).test(document.cookie)){document.cookie='rweb_optin=on;path=/;domain=twitter.com';document.cookie='night_mode=1;path=/;domain=twitter.com';location.reload()};
 ! Banks
 @@||cathaybk.com.tw^$important,document
 @@||dbs.com.tw^$important,document
