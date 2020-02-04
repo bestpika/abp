@@ -1,4 +1,4 @@
-# 2020.0103.1
+# 2020.0204.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -39,6 +39,10 @@
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
+@@||nba.com^
+@@||crowdin.com^
+@@||ipapi.co^
+@@||t.ly^
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
