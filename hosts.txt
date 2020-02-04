@@ -1,4 +1,4 @@
-# 2020.0204.2
+# 2020.0204.3
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -46,6 +46,7 @@
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
+||sakurayae.com^
 # IPv4
 127.0.0.1       the.dns
 # IPv6
