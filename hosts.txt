@@ -1,4 +1,4 @@
-# 2020.0204.1
+# 2020.0204.2
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -7,6 +7,7 @@
 # Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
+@@||api.crowdin.com^
 # 某個 CDN 服務
 @@||durasite.net^
 @@||graph.facebook.com^
@@ -21,8 +22,10 @@
 @@||googleusercontent.com^
 @@||groupees.com^
 @@||fonts.gstatic.com^
+@@||ipapi.co^
 @@||mailtrack.io^
 @@||marfeelcdn.com^
+@@||stats.nba.com^
 @@||cdn.muut.com^
 # @@||nakanohito.jp^
 @@||neowin.net^
@@ -34,15 +37,12 @@
 @@||ocsp.sectigo.com^
 @@||browser.sentry-cdn.com^
 @@||crash.steampowered.com^
+@@||t.ly^
 @@||the.dns^
 @@||tags.tiqcdn.com^
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
-@@||nba.com^
-@@||crowdin.com^
-@@||ipapi.co^
-@@||t.ly^
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
