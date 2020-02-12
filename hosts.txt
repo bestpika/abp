@@ -1,4 +1,4 @@
-# 2020.0204.3
+# 2020.0213.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -25,14 +25,14 @@
 @@||ipapi.co^
 @@||mailtrack.io^
 @@||marfeelcdn.com^
-@@||stats.nba.com^
 @@||cdn.muut.com^
 # @@||nakanohito.jp^
+@@||stats.nba.com^
 @@||neowin.net^
+@@||d.pixiv.org^
 @@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
-@@||p.typekit.net^
 @@||cdn.ravenjs.com^
 @@||ocsp.sectigo.com^
 @@||browser.sentry-cdn.com^
@@ -40,6 +40,7 @@
 @@||t.ly^
 @@||the.dns^
 @@||tags.tiqcdn.com^
+@@||p.typekit.net^
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
