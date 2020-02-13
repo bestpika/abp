@@ -1,4 +1,4 @@
-# 2020.0213.1
+# 2020.0213.2
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -19,6 +19,7 @@
 @@||gstaticadssl.l.google.com^
 @@||google-analytics.com^
 @@||fonts.googleapis.com^
+@@||googletagmanager.com^
 @@||googleusercontent.com^
 @@||groupees.com^
 @@||fonts.gstatic.com^
