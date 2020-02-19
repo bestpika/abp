@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0213.2
+! Version: 2020.0219.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -84,6 +84,7 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 @@||hostsfile.mine.nu^
 ! pixiv.net
 @@||d.pixiv.org/file^
+www.pixiv.net#@#.follow-button
 ! plurk.com
 ! 解決擋住分析就沒辦法登出其他設備的蠢問題
 @@||plurk.com/settings/sessions^$urlblock
