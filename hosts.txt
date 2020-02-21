@@ -1,9 +1,10 @@
-# 2020.0213.2
+# 2020.0221.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
 @@||adguard.org^
 @@||adtidy.org^
+@@||agrd.io^
 # Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
