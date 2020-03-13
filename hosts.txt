@@ -1,4 +1,4 @@
-# 2020.0221.1
+# 2020.0313.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -24,6 +24,7 @@
 @@||googleusercontent.com^
 @@||groupees.com^
 @@||fonts.gstatic.com^
+@@||downloads.intercomcdn.com^
 @@||ipapi.co^
 @@||mailtrack.io^
 @@||marfeelcdn.com^
