@@ -13,16 +13,16 @@ https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
-https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoTimer.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/Yhonay/antipopads/raw/master/popads.txt
+https://github.com/NanoAdblocker/NanoFilters/raw/master/NanoFilters/NanoTimer.txt
+https://github.com/cjx82630/cjxlist/raw/master/cjxlist.txt
+https://github.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
 https://280blocker.net/files/280blocker_adblock.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
+https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.txt
 ! HOSTS
 https://1hos.cf
 https://hosts-file.net/ad_servers.txt
@@ -30,7 +30,7 @@ https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
 https://hosts-file.net/hjk.txt
 https://hosts-file.net/mmt.txt
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://github.com/hoshsadiq/adblock-nocoin-list/raw/master/nocoin.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ```
@@ -38,7 +38,7 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 ### Other
 
 ```
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://github.com/StevenBlack/hosts/raw/master/hosts
 https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
