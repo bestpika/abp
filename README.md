@@ -11,20 +11,19 @@
 ! ABP
 https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
+https://280blocker.net/files/280blocker_adblock.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://github.com/Yhonay/antipopads/raw/master/popads.txt
-https://github.com/NanoAdblocker/NanoFilters/raw/master/NanoFilters/NanoTimer.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjxlist.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
-https://280blocker.net/files/280blocker_adblock.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.txt
 ! HOSTS
-https://1hos.cf
+https://github.com/badmojr/1Hosts/raw/master/mini/hosts.txt
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
@@ -58,16 +57,6 @@ https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/15.txt
 ```
 
-### 1hosts
-
-```
-https://1hos.cf
-https://1hos.cf/mini/
----
-https://1hos.cf/complete/list.txt
-https://1hos.cf/mini/list.txt
-```
-
 ### Disconnect
 
 ```
@@ -99,18 +88,20 @@ https://assets.windscribe.com/extension/ws/fanboy-social.txt
 
 ## DNS
 
-- <https://gist.github.com/bestpika/007c7e7db983e56035ea7c9bc1e79966>
+- <https://kb.adguard.com/en/general/dns-providers>
 - <https://adguard.com/en/adguard-dns/overview.html>
 
 ## 過濾器清單
 
-### 相關網站
+### AdGuard
 
-- <https://1hos.cf>
-- <https://adblockplus.org/en/subscriptions>
-- <https://kb.adguard.com/en/general/adguard-ad-filters>
 - <https://filters.adtidy.org/windows/filters.json>
 - <https://filters.adtidy.org/mac_v2/filters.json>
+
+### 相關網站
+
+- <https://adblockplus.org/en/subscriptions>
+- <https://kb.adguard.com/en/general/adguard-ad-filters>
 - <https://easylist.to>
 - <https://filterlists.com>
 - <https://firebog.net>
@@ -119,6 +110,7 @@ https://assets.windscribe.com/extension/ws/fanboy-social.txt
 
 ### 清單
 
+- <https://github.com/badmojr/1Hosts>
 - <https://github.com/CHEF-KOCH/CKs-FilterList>
 - <https://github.com/hoshsadiq/adblock-nocoin-list>
 - <https://github.com/notracking/hosts-blocklists>
