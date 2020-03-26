@@ -1,4 +1,4 @@
-# 2020.0313.1
+# 2020.0326.1
 # --------------------------------------------------
 # AdGuard
 @@||adguard.com^
@@ -50,6 +50,7 @@
 # Blocklist
 ||ettoday.com^
 ||pixnet.com^
+||pizzaseo.com^
 ||sakurayae.com^
 # IPv4
 127.0.0.1       the.dns
