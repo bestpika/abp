@@ -1,15 +1,14 @@
-# 2020.0326.1
-# --------------------------------------------------
-# AdGuard
+! 2020.0408.1
+! --------------------------------------------------
+! AdGuard
 @@||adguard.com^
 @@||adguard.org^
 @@||adtidy.org^
 @@||agrd.io^
-# Whitelist
+! Whitelist
 @@||live.adyen.com^
 @@||ocsp.*.amazontrust.com^
 @@||api.crowdin.com^
-# 某個 CDN 服務
 @@||durasite.net^
 @@||graph.facebook.com^
 @@||fastly.net^
@@ -29,7 +28,7 @@
 @@||mailtrack.io^
 @@||marfeelcdn.com^
 @@||cdn.muut.com^
-# @@||nakanohito.jp^
+! @@||nakanohito.jp^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||d.pixiv.org^
@@ -47,11 +46,8 @@
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
-# Blocklist
+! Blocklist
 ||ettoday.com^
 ||pixnet.com^
 ||pizzaseo.com^
 ||sakurayae.com^
-# IPv4
-127.0.0.1       the.dns
-# IPv6
