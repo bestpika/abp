@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0219.1
+! Version: 2020.0409.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -135,6 +135,7 @@ inoreader.com##div.block_article_ad
 pixiv.net##div#js-mount-point-sketch-notification
 plurk.com##div#resp_banner_ads
 plurk.com##section#rightPanel
+pttplay.com##body>div.container:first-child
 solidot.org##div#headads
 soft4fun.net##div.spu-bg
 soft4fun.net##div.spu-box
