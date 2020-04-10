@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0409.1
+! Version: 2020.0410.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -70,6 +70,8 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 @@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
 @@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
 @@||jsc.mgid.com/h/l/hlsplayer.net.*.js
+! ifttt.com
+@@||sentry.io^$domain=ifttt.com
 ! isthereanydeal.com
 @@||esapi.isthereanydeal.com^
 ! jandi.com
