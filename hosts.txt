@@ -1,4 +1,4 @@
-! 2020.0408.1
+! 2020.0410.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -37,6 +37,7 @@
 @@||tshop.r10s.jp^
 @@||cdn.ravenjs.com^
 @@||ocsp.sectigo.com^
+@@||sentry.io^
 @@||browser.sentry-cdn.com^
 @@||crash.steampowered.com^
 @@||t.ly^
