@@ -1,4 +1,4 @@
-! 2020.0410.1
+! 2020.0411.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -14,6 +14,7 @@
 @@||fastly.net^
 @@||firebaseio.com^
 @@||forms.gle^
+@@||git.io^
 @@||gleam.io^
 @@||feedburner.google.com^
 @@||gstaticadssl.l.google.com^
