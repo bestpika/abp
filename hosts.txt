@@ -1,53 +1,55 @@
-! 2020.0411.1
+! 2020.0415.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
 @@||adguard.org^
 @@||adtidy.org^
 @@||agrd.io^
-! Whitelist
-@@||live.adyen.com^
-@@||ocsp.*.amazontrust.com^
-@@||api.crowdin.com^
-@@||durasite.net^
-@@||graph.facebook.com^
-@@||fastly.net^
+! Google
 @@||firebaseio.com^
 @@||forms.gle^
-@@||git.io^
-@@||gleam.io^
 @@||feedburner.google.com^
 @@||gstaticadssl.l.google.com^
 @@||google-analytics.com^
 @@||fonts.googleapis.com^
 @@||googletagmanager.com^
 @@||googleusercontent.com^
-@@||groupees.com^
 @@||fonts.gstatic.com^
+! OCSP
+@@||ocsp.*.amazontrust.com^
+@@||ocsp.sectigo.com^
+! CDN
+@@||durasite.net^
+@@||fastly.net^
 @@||downloads.intercomcdn.com^
-@@||ipapi.co^
-@@||mailtrack.io^
 @@||marfeelcdn.com^
 @@||cdn.muut.com^
-! @@||nakanohito.jp^
+@@||cdn.ravenjs.com^
+@@||browser.sentry-cdn.com^
+@@||tags.tiqcdn.com^
+@@||static.zdassets.com^
+! Whitelist
+@@||live.adyen.com^
+@@||api.crowdin.com^
+@@||data.microsoft.com^
+@@||graph.facebook.com^
+@@||git.io^
+@@||gleam.io^
+@@||groupees.com^
+@@||ipapi.co^
+@@||mailtrack.io^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||d.pixiv.org^
 @@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
-@@||cdn.ravenjs.com^
-@@||ocsp.sectigo.com^
 @@||sentry.io^
-@@||browser.sentry-cdn.com^
 @@||crash.steampowered.com^
 @@||t.ly^
-@@||the.dns^
-@@||tags.tiqcdn.com^
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
-@@||static.zdassets.com^
 ! Blocklist
 ||ettoday.com^
 ||pixnet.com^
