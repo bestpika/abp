@@ -1,4 +1,4 @@
-! 2020.0415.1
+! 2020.0415.2
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -32,6 +32,7 @@
 @@||live.adyen.com^
 @@||api.crowdin.com^
 @@||data.microsoft.com^
+@@||telemetry.microsoft.com^
 @@||graph.facebook.com^
 @@||git.io^
 @@||gleam.io^
