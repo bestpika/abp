@@ -1,4 +1,4 @@
-! 2020.0419.1
+! 2020.0419.2
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -32,14 +32,14 @@
 @@||live.adyen.com^
 @@||api.crowdin.com^
 @@||dlsite.jp^
-@@||data.microsoft.com^
-@@||telemetry.microsoft.com^
 @@||graph.facebook.com^
 @@||git.io^
 @@||gleam.io^
 @@||groupees.com^
 @@||ipapi.co^
 @@||mailtrack.io^
+@@||data.microsoft.com^
+@@||telemetry.microsoft.com^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||d.pixiv.org^
