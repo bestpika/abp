@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0419.2
+! Version: 2020.0419.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -106,6 +106,8 @@ www.ruten.com.tw#@#.adver
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
 ! youtube.com
 youtube.com#@#div#related
+@@||s.youtube.com^$domain=youtube.com
+||s.youtube.com^$domain=~youtube.com
 ! ----------------------------------------------------------------------
 .class$object
 .flv$object
