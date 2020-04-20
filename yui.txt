@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0420.3
+! Version: 2020.0421.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -47,23 +47,13 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
 ! google.com
-@@||analytics.google.com^$document
-@@||clients*.google.com^$domain=google.com
-@@||docs.google.com^$document
-@@||drive.google.com^$document
-@@||hangouts.google.com^$document
-@@||mail.google.com^$document
-@@||play.google.com^$document
-@@||play.google.com/log^$domain=google.com
 @@||www.google.com/recaptcha^
 @@||firestore.googleapis.com/google.firestore^
-@@||safebrowsing.googleapis.com^
-@@||ci*.googleusercontent.com^$domain=google.com
-! Google Fonts
 @@||fonts.googleapis.com^
+@@||safebrowsing.googleapis.com^
 @@||fonts.gstatic.com^
 ! grammarly.com
-@@||capi.grammarly.com
+@@||capi.grammarly.com^
 ! greenmangaming.com
 @@||tags.tiqcdn.com/utag/gmg/greenman/prod/utag.js$domain=greenmangaming.com
 ! hinet.net
@@ -72,8 +62,6 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 @@||www.hlsplayer.net/player/grindplayer/flashlsOSMF.swf
 @@||www.hlsplayer.net/player/grindplayer/GrindPlayer.swf
 @@||jsc.mgid.com/h/l/hlsplayer.net.*.js
-! ifttt.com
-@@||sentry.io^$domain=ifttt.com
 ! isthereanydeal.com
 @@||esapi.isthereanydeal.com^
 ! jandi.com
@@ -84,8 +72,6 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 @@||google-analytics.com/analytics.js$domain=luxcinema.com.tw
 ! mailtrack.io
 @@||ws.mailtrack.io^
-! mine.nu
-@@||hostsfile.mine.nu^
 ! pixiv.net
 @@||d.pixiv.org/file^
 www.pixiv.net#@#.follow-button
@@ -99,9 +85,9 @@ www.pixiv.net#@#.follow-button
 ! ruten.com.tw
 @@||c.rimg.com.tw^$domain=ruten.com.tw
 @@||ahd.ruten.com.tw^$domain=ruten.com.tw
-www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 www.ruten.com.tw#@#.adslot
 www.ruten.com.tw#@#.adver
+www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 ! steamdb.info
 @@||steamdb.info/api^
 ! steamprices.com
@@ -110,15 +96,9 @@ www.ruten.com.tw#@#.adver
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
 ! youtube.com
 youtube.com#@#div#related
-@@||s.youtube.com^$domain=youtube.com
-||s.youtube.com^$domain=~youtube.com
+||s.youtube.com^$third-party
 ! ----------------------------------------------------------------------
-.class$object
-.flv$object
-.spl$object
-.swf$object
-! ----------------------------------------------------------------------
-||/OneSignalSDKWorker.js
+/OneSignalSDKWorker.js
 ||nqtnu.cn^
 ||plurk.com/go^$empty
 ||go.plurk.com^$empty
@@ -145,9 +125,9 @@ pixiv.net##div#js-mount-point-sketch-notification
 plurk.com##div#resp_banner_ads
 plurk.com##section#rightPanel
 pttplay.com##body>div.container:first-child
-solidot.org##div#headads
 soft4fun.net##div.spu-bg
 soft4fun.net##div.spu-box
+solidot.org##div#headads
 solidot.org##div.adv
 solidot.org##div.combined_log
 steampowered.com##div.mature_content_notice
