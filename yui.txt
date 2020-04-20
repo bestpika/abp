@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0420.2
+! Version: 2020.0420.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -62,6 +62,8 @@ twitter.com#%#if(!(/rweb_optin=on/).test(document.cookie)||!(/night_mode=1/).tes
 ! Google Fonts
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
+! grammarly.com
+@@||capi.grammarly.com
 ! greenmangaming.com
 @@||tags.tiqcdn.com/utag/gmg/greenman/prod/utag.js$domain=greenmangaming.com
 ! hinet.net
