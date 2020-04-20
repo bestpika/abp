@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0420.1
+! Version: 2020.0420.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -138,6 +138,7 @@ gamme.com.tw##*[class^="sidead_"]
 gamme.com.tw##div.adwrpt
 inoreader.com##div.ad_title
 inoreader.com##div.block_article_ad
+today.line.me##div#install_line
 pixiv.net##div#js-mount-point-sketch-notification
 plurk.com##div#resp_banner_ads
 plurk.com##section#rightPanel
