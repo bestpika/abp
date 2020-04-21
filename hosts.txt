@@ -1,4 +1,4 @@
-! 2020.0419.2
+! 2020.0421.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -15,6 +15,10 @@
 @@||googletagmanager.com^
 @@||googleusercontent.com^
 @@||fonts.gstatic.com^
+! Microsoft
+@@||data.microsoft.com^
+@@||telemetry.microsoft.com^
+@@||ws.microsoft.com^
 ! OCSP
 @@||ocsp.*.amazontrust.com^
 @@||ocsp.sectigo.com^
@@ -38,8 +42,6 @@
 @@||groupees.com^
 @@||ipapi.co^
 @@||mailtrack.io^
-@@||data.microsoft.com^
-@@||telemetry.microsoft.com^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||d.pixiv.org^
