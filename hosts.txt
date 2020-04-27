@@ -1,4 +1,4 @@
-! 2020.0421.1
+! 2020.0427.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -29,7 +29,6 @@
 @@||marfeelcdn.com^
 @@||cdn.muut.com^
 @@||cdn.ravenjs.com^
-@@||browser.sentry-cdn.com^
 @@||tags.tiqcdn.com^
 @@||static.zdassets.com^
 ! Whitelist
@@ -48,7 +47,6 @@
 @@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
-@@||sentry.io^
 @@||crash.steampowered.com^
 @@||t.ly^
 @@||p.typekit.net^
