@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0506.1
+! Version: 2020.0509.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -142,4 +142,5 @@ solidot.org##div#headads
 solidot.org##div.adv
 solidot.org##div.combined_log
 steampowered.com##div.mature_content_notice
+technews.tw##div.AD_wrapper
 yusaani.com##div.headLine
