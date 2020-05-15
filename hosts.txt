@@ -1,4 +1,4 @@
-! 2020.0515.2
+! 2020.0515.3
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -56,7 +56,9 @@
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 ! Blocklist
+||dpbolvw.net^
 ||ettoday.com^
 ||pixnet.com^
 ||pizzaseo.com^
+||jdoqocy.com^
 ||sakurayae.com^
