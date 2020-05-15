@@ -1,4 +1,4 @@
-! 2020.0506.1
+! 2020.0515.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -36,6 +36,7 @@
 @@||live.adyen.com^
 @@||api.crowdin.com^
 @@||dlsite.jp^
+@@||dpbolvw.net^
 @@||graph.facebook.com^
 @@||git.io^
 @@||gleam.io^
