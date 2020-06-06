@@ -55,6 +55,7 @@
 @@||t.ly^
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
+@@||sj.uukanshu.com^
 @@||s.youtube.com^
 ! Blocklist
 ||dpbolvw.net^
