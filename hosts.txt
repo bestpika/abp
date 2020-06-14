@@ -1,4 +1,4 @@
-! 2020.0606.1
+! 2020.0614.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -32,13 +32,16 @@
 @@||cdn.ravenjs.com^
 @@||tags.tiqcdn.com^
 @@||static.zdassets.com^
+! 短網址
+@@||git.io^
+@@||lihi.cc^
+@@||t.ly^
 ! Whitelist
 @@||live.adyen.com^
 @@||api.crowdin.com^
 @@||chaturbate.com^
 @@||dlsite.jp^
 @@||graph.facebook.com^
-@@||git.io^
 @@||gleam.io^
 @@||gravatar.com^
 @@||groupees.com^
@@ -52,7 +55,6 @@
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
 @@||crash.steampowered.com^
-@@||t.ly^
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
 @@||sj.uukanshu.com^
