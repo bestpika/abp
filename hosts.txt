@@ -1,4 +1,4 @@
-! 2020.0614.1
+! 2020.0615.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -38,6 +38,7 @@
 @@||t.ly^
 ! Whitelist
 @@||live.adyen.com^
+@@||licenses.ashampoo.com^
 @@||api.crowdin.com^
 @@||chaturbate.com^
 @@||dlsite.jp^
