@@ -1,8 +1,9 @@
 [Adblock Plus]
 ! Title: 內容農場
-! Version: 2019.1014.3
+! Version: 2020.0616.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
+! 原則放行圖片網址
 ||bizroomguang.com^$important,empty,~image
 ||clickme.net^$important,empty,~image
 ||bomb01.com^$important,empty,~image
@@ -10,6 +11,7 @@
 ||kknews.cc^$important,empty,~image
 ||orgs.one^$important,empty,~image
 ||ptt01.cc^$important,empty,~image
+@@||i*.read01.com/SIG=
 ||read01.com^$important,empty,~image
 ||teepr.com^$important,empty,~image
 ||wetalk.tw^$important,empty,~image
