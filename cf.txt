@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 內容農場
-! Version: 2020.0616.2
+! Version: 2020.0617.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
 ! 原則放行圖片網址
@@ -9,6 +9,7 @@
 ||clickme.net^$important,empty,~image
 ||bomb01.com^$important,empty,~image
 ||coco01.net^$important,empty,~image
+@@||kknews.cc/*^show=1|$important
 ||kknews.cc^$important,empty,~image
 ||orgs.one^$important,empty,~image
 ||ptt01.cc^$important,empty,~image
