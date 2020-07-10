@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.0701.2
+! Version: 2020.0710.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -77,6 +77,11 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 @@||google-analytics.com/analytics.js$domain=luxcinema.com.tw
 ! mailtrack.io
 @@||ws.mailtrack.io^
+! netflix.com
+@@||netflix.com^$document,~extension
+@@||nflxext.com^$document,~extension
+@@||nflxso.net^$document,~extension
+@@||nflxvideo.net^$document,~extension
 ! pixiv.net
 @@||d.pixiv.org/file^
 www.pixiv.net#@#.follow-button
