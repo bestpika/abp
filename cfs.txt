@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 找不到農場
-! Version: 2020.0812.1
+! Version: 2020.0813.1
 ! Expires: 1 hour
 ! ----------------------------------------------------------------------
-google.*##div.g:has(a[href*="ptt01.cc"])
+google.*##div[data-hveid]:has(a[href*="//ptt01.cc"])
