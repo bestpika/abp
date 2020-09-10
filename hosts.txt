@@ -1,4 +1,4 @@
-! 2020.0807.1
+! 2020.0910.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -55,6 +55,7 @@
 @@||pornhubpremium.com^
 @@||ahd.ruten.com.tw^
 @@||mp.weixin.qq.com^
+@@||surge.sh^
 @@||tshop.r10s.jp^
 @@||crash.steampowered.com^
 @@||p.typekit.net^
