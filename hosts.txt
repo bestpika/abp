@@ -1,4 +1,4 @@
-! 2020.0910.1
+! 2020.0915.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -39,6 +39,7 @@
 ! Whitelist
 @@||live.adyen.com^
 @@||licenses.ashampoo.com^
+@@||awstrack.me^
 @@||chaturbate.com^
 @@||api.crowdin.com^
 @@||crypto.com^
