@@ -1,4 +1,4 @@
-! 2020.0915.1
+! 2020.0920.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -20,6 +20,7 @@
 @@||telemetry.microsoft.com^
 @@||ws.microsoft.com^
 @@||res.office365.com^
+@@||app.powerbi.com^
 ! OCSP
 @@||ocsp.*.amazontrust.com^
 @@||ocsp.sectigo.com^
