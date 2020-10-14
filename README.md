@@ -83,6 +83,7 @@ https://assets.windscribe.com/extension/ws/fanboy-social.txt
 ## GitHub CDN
 
 - <https://rawgit.com>
+- <https://rawgit.org>
 - <https://gitcdn.xyz>
 - <https://raw.githack.com>
 
