@@ -53,6 +53,7 @@
 @@||mailtrack.io^
 @@||stats.nba.com^
 @@||neowin.net^
+@@||nextdns.io^
 @@||d.pixiv.org^
 @@||pornhubpremium.com^
 @@||mp.weixin.qq.com^
