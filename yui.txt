@@ -163,5 +163,6 @@ solidot.org##div#headads
 solidot.org##div.adv
 solidot.org##div.combined_log
 steampowered.com##div.mature_content_notice
+steampowered.com##div[data-featuretarget="broadcast-embed"]
 technews.tw##div.AD_wrapper
 yusaani.com##div.headLine
