@@ -1,4 +1,4 @@
-! 2020.1017.1
+! 2020.1017.2
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -41,6 +41,7 @@
 @@||live.adyen.com^
 @@||licenses.ashampoo.com^
 @@||awstrack.me^
+@@||p2.bahamut.com.tw^
 @@||chaturbate.com^
 @@||api.crowdin.com^
 @@||crypto.com^
