@@ -1,4 +1,4 @@
-! 2020.1107.1
+! 2020.1107.2
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -50,6 +50,7 @@
 @@||gleam.io^
 @@||gravatar.com^
 @@||groupees.com^
+@@||forms.hsforms.com^
 @@||intel.com^
 @@||ipapi.co^
 @@||mailtrack.io^
