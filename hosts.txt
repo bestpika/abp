@@ -50,6 +50,7 @@
 @@||gleam.io^
 @@||gravatar.com^
 @@||groupees.com^
+@@||intel.com^
 @@||ipapi.co^
 @@||mailtrack.io^
 @@||stats.nba.com^
