@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.1112.3
+! Version: 2020.1113.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -50,6 +50,7 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 ! gamer.com.tw
 @@||i2.bahamut.com.tw/js/plugins^$domain=gamer.com.tw
 @@||fuli.gamer.com.tw/shop_detail.php^$document,~extension
+@@||www.gamer.com.tw/index.php^$document,~extension
 ! github.com
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
