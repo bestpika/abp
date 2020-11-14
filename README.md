@@ -40,6 +40,8 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 https://github.com/StevenBlack/hosts/raw/master/hosts
 https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-ag-online.txt
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-agh-online.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://mirror1.malwaredomains.com/files/justdomains
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
