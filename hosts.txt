@@ -1,4 +1,4 @@
-! 2020.1107.2
+! 2020.1116.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -37,6 +37,8 @@
 @@||git.io^
 @@||lihi.cc^
 @@||t.ly^
+! 密幣
+@@||binance.com^
 ! Whitelist
 @@||live.adyen.com^
 @@||licenses.ashampoo.com^
