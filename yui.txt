@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.1117.1
+! Version: 2020.1121.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -109,6 +109,8 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 @@||cm.steampowered.com^
 ! steamprices.com
 @@||steamprices.com/tw/user/ownedgames^$urlblock
+! wds.com.tw
+www.wds.com.tw#@#div.ad-div
 ! weiyun.com
 share.weiyun.com#@#.page-ad
 ! tw.finance.yahoo.com
@@ -119,7 +121,7 @@ share.weiyun.com#@#.page-ad
 youtube.com#@#div#related
 ||s.youtube.com^$third-party
 ! ----------------------------------------------------------------------
-/OneSignalSDKWorker.js
+||awstrack.me^
 ||nqtnu.cn^
 ||plurk.com/go^$empty
 ||go.plurk.com^$empty
@@ -127,6 +129,7 @@ youtube.com#@#div#related
 ||t.quandangdang.net^
 ||scupio.com^$third-party
 ! ----------------------------------------------------------------------
+/OneSignalSDKWorker.js
 .swf$object
 ! ----------------------------------------------------------------------
 anime1.me##div#anime-top
@@ -137,7 +140,6 @@ anime1.me##section#execphp-6
 ! appledaily.com##div.omoPaywall
 ! appledaily.com##div.paywall_fade
 ! appledaily.com#$#div#article-body>div#articleBody{height:100%!important;}
-awstrack.me
 m.cnyes.com##div._12E
 m.cnyes.com##div._3Yy
 share.dmhy.org##div[id='1280_ad']>a
