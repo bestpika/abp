@@ -1,4 +1,4 @@
-! 2020.1116.1
+! 2020.1204.1
 ! --------------------------------------------------
 ! AdGuard
 @@||adguard.com^
@@ -72,6 +72,7 @@
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
 @@||sj.uukanshu.com^
+@@||whitesmoke.com^
 @@||s.youtube.com^
 ! Blocklist
 ||dpbolvw.net^
