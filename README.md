@@ -76,10 +76,11 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 ### Windscribe
 
 ```
+https://assets.windscribe.com/extension/ws/cookies.txt
 https://assets.windscribe.com/extension/ws/easylist.txt
 https://assets.windscribe.com/extension/ws/easyprivacy.txt
-https://assets.windscribe.com/extension/ws/malwaredomains.txt
 https://assets.windscribe.com/extension/ws/fanboy-social.txt
+https://assets.windscribe.com/extension/ws/malwaredomains.txt
 ```
 
 ## GitHub CDN
