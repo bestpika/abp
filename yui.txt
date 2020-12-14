@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.1126.1
+! Version: 2020.1214.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -108,6 +108,8 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 @@||cm.steampowered.com^
 ! steamprices.com
 @@||steamprices.com/tw/user/ownedgames^$urlblock
+! twitter.com
+twitter.com#@##layers
 ! wds.com.tw
 www.wds.com.tw#@#.ad-div
 ! weiyun.com
