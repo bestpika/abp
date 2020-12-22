@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2020.1215.1
+! Version: 2020.1222.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -9,9 +9,6 @@
 ! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! ----------------------------------------------------------------------
-! 蘋果又免費惹
-! appledaily.com#%#;(()=>{const date=new Date();date.setTime(date.getTime()-86400);const aid=document.cookie.match(/articleid(.+?)=/i);if(aid){document.cookie=`articleId${aid[1]}=;path=/;expires=${date.toUTCString()}`}})();
-dlsite.com#%#if(!(/adultchecked=1/).test(document.cookie)){document.cookie='adultchecked=1;path=/;domain=dlsite.com';document.cookie='locale=ja-jp;path=/;domain=dlsite.com';document.cookie='lang=ja;path=/;domain=dlsite.com';document.cookie='language=ja_JP;path=/;domain=dlsite.com';location.reload()};
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#if(!(/r18=1/).test(document.cookie)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
 www.humblebundle.com#%#if(!(/hb_age_check/).test(document.cookie)){document.cookie='hb_age_check=18;path=/';location.reload()};
