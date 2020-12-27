@@ -1,4 +1,4 @@
-! 2020.1225.1
+! 2020.1227.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -28,6 +28,7 @@
 @@||ocsp.*.amazontrust.com^
 @@||ocsp.sectigo.com^
 ! CDN
+@@||cloudfront.net^
 @@||durasite.net^
 @@||fastly.net^
 @@||downloads.intercomcdn.com^
