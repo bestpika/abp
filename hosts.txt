@@ -1,4 +1,4 @@
-! 2020.1227.1
+! 2020.0108.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -24,6 +24,7 @@
 @@||ws.microsoft.com^
 @@||res.office365.com^
 @@||app.powerbi.com^
+@@||vsassets.io^
 ! OCSP
 @@||ocsp.*.amazontrust.com^
 @@||ocsp.sectigo.com^
@@ -51,6 +52,7 @@
 @@||chaturbate.com^
 @@||api.crowdin.com^
 @@||crypto.com^
+@@||digicert.com^
 @@||dlsite.jp^
 @@||graph.facebook.com^
 @@||gleam.io^
