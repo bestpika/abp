@@ -1,4 +1,4 @@
-! 2020.0108.1
+! 2020.0116.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -81,6 +81,10 @@
 @@||whitesmoke.com^
 @@||s.youtube.com^
 ! Blocklist
+! Flash
+||geo2.adobe.com^
+||flash.cn^
+! -----
 ||dpbolvw.net^
 ||ettoday.com^
 ||jdoqocy.com^
