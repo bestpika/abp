@@ -1,4 +1,4 @@
-! 2020.0117.2
+! 2020.0117.3
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -18,6 +18,7 @@
 @@||googletagmanager.com^
 @@||googleusercontent.com^
 @@||fonts.gstatic.com^
+@@||s.youtube.com^
 ! Microsoft
 @@||data.microsoft.com^
 @@||telemetry.microsoft.com^
@@ -79,7 +80,7 @@
 @@||cloud.unity3d.com^
 @@||sj.uukanshu.com^
 @@||whitesmoke.com^
-@@||s.youtube.com^
+@@||video.yahoo.com^
 ! Blocklist
 ! Flash
 ||2144.cn^
