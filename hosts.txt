@@ -1,4 +1,4 @@
-! 2020.0117.1
+! 2020.0117.2
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -87,6 +87,7 @@
 ||geo.adobe.com^
 ||geo2.adobe.com^
 ||flash.cn^
+||macromedia.com^
 ! -----
 ||dpbolvw.net^
 ||ettoday.com^
