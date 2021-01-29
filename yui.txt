@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0122.1
+! Version: 2021.0129.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -82,6 +82,8 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 @@||nflxext.com^$document,~extension
 @@||nflxso.net^$document,~extension
 @@||nflxvideo.net^$document,~extension
+! pionex.com
+pionex.com#@#[class^="ad_banner"]
 ! pixiv.net
 @@||d.pixiv.org/file^
 www.pixiv.net#@#.follow-button
