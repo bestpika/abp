@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0220.4
+! Version: 2021.0220.5
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -105,6 +105,7 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 ! steamdb.info
 @@||steamdb.info/api^
 ! steampowered.com
+@@||google-analytics.com/analytics.js$domain=steamcommunity.com
 @@||cm.steampowered.com^
 ! steamprices.com
 @@||steamprices.com/tw/user/ownedgames^$urlblock
