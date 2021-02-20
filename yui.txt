@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0129.1
+! Version: 2021.0220.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -15,7 +15,7 @@ www.humblebundle.com#%#if(!(/hb_age_check/).test(document.cookie)){document.cook
 www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelectorAll('.over18-button-container>button[name="yes"]').forEach(x=>x.click())}};
 www.ptt.cc#%#if(!(/over18=1/).test(document.cookie)){document.cookie='over18=1;path=/';location.reload()};
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);document.cookie='labs_browse=1;path=/';
-store.steampowered.com#%#document.cookie='bGameHighlightAudioEnabled=false;path=/';document.cookie='bGameHighlightAutoplayDisabled=true;path=/';document.cookie='wants_mature_content=1;path=/';document.cookie='birthtime=22503171;path=/';
+store.steampowered.com#%#document.cookie='bGameHighlightAudioEnabled=false;path=/';document.cookie='bGameHighlightAutoplayDisabled=true;path=/';document.cookie='wants_mature_content=1;path=/';
 storm.mg#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){show_idle_alert=show_new7_popup=show_popup_ad=()=>{}}};
 twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('.ProfileWarningTimeline-button').forEach(x=>x.click());document.querySelectorAll('.Tombstone-action').forEach(x=>x.click());if(document.querySelector('.stream')){(new MutationObserver(mutations=>document.querySelectorAll('.Tombstone-action').forEach(x=>x.click()))).observe(document.querySelector('.stream'),{childList:true,subtree:true})}}};
 ! ----------------------------------------------------------------------
