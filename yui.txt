@@ -8,6 +8,7 @@
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
 ! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+! https://github.com/AdguardTeam/Scriptlets
 ! ----------------------------------------------------------------------
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#if(!(/r18=1/).test(document.cookie)){document.cookie='r18=1;domain=gamme.com.tw;path=/';location.reload()};
