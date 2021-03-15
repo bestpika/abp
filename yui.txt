@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0313.1
+! Version: 2021.0315.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -155,6 +155,7 @@ fanatical.com##div.small-usp-bar
 blog.fc2.com##div#fc2_bottom_bnr
 gamme.com.tw##*[class^="sidead_"]
 gamme.com.tw##div.adwrpt
+greenmangaming.com##div#usp-header
 inoreader.com##div.ad_title
 inoreader.com##div.block_article_ad
 today.line.me##div#install_line
