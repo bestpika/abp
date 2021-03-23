@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0323.2
+! Version: 2021.0323.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -21,8 +21,6 @@ store.steampowered.com#%#localStorage.setItem('playback_hd',false);
 store.steampowered.com#%#document.cookie='lastagecheckage=28-February-1911;path=/';
 store.steampowered.com#%#//scriptlet('set-cookie-reload','bGameHighlightAudioEnabled','false')
 store.steampowered.com#%#//scriptlet('set-cookie-reload','bGameHighlightAutoplayDisabled','true')
-! 年齡驗證
-! 實驗室
 store.steampowered.com#%#//scriptlet('set-cookie-reload','labs_browse','1')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_idle_alert')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_new7_popup')
@@ -115,8 +113,7 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 ! steampowered.com
 @@||google-analytics.com/analytics.js$domain=steamcommunity.com
 @@||cm.steampowered.com^
-! steamprices.com
-@@||steamprices.com/tw/user/ownedgames^$urlblock
+@@||store.steampowered.com/widget^$third-party
 ! twitter.com
 twitter.com#@##layers
 ! wds.com.tw
