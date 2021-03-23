@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0323.1
+! Version: 2021.0323.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -12,11 +12,13 @@
 ! ----------------------------------------------------------------------
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#//scriptlet('set-cookie-reload','r18','1')
-www.humblebundle.com#%#//scriptlet('set-cookie-reload','hb_age_check','18')
+www.humblebundle.com#%#document.cookie='hb_age_check=18;path=/';
+www.humblebundle.com#%#//scriptlet('set-cookie-reload','_yo','true')
 new.isthereanydeal.com#%#//scriptlet('set-cookie-reload','disclaimer','1')
 www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelectorAll('.over18-button-container>button[name="yes"]').forEach(x=>x.click())}};
 www.ptt.cc#%#//scriptlet('set-cookie-reload','over18','1')
 store.steampowered.com#%#localStorage.setItem('playback_hd',false);
+store.steampowered.com#%#document.cookie='lastagecheckage=28-February-1911;path=/';
 store.steampowered.com#%#//scriptlet('set-cookie-reload','bGameHighlightAudioEnabled','false')
 store.steampowered.com#%#//scriptlet('set-cookie-reload','bGameHighlightAutoplayDisabled','true')
 ! 年齡驗證
@@ -155,7 +157,6 @@ fanatical.com##div.small-usp-bar
 blog.fc2.com##div#fc2_bottom_bnr
 gamme.com.tw##*[class^="sidead_"]
 gamme.com.tw##div.adwrpt
-script.google.com/macros^##div#warning
 greenmangaming.com##div#usp-header
 inoreader.com##div.ad_title
 inoreader.com##div.block_article_ad
