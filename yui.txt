@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0325.1
+! Version: 2021.0325.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -186,4 +186,5 @@ wnacg.com##div#bread
 wnacg.org##div#bread
 yusaani.com##div.headLine
 ! ----------------------------------------------------------------------
-store.steampowered.com^$removeparam=curator_clanid
+indiegala.com^$removeparam=ref
+steampowered.com^$removeparam=curator_clanid
