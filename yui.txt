@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0324.2
+! Version: 2021.0325.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -32,10 +32,10 @@ twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complet
 @@||cathaybk.com.tw^$important,document
 @@||dbs.com.tw^$important,document
 @@||esunbank.com.tw^$important,document
-@@||ipost.post.gov.tw^$important,document
 @@||kokobank.com^$important,document
 @@||mybank.com.tw^$important,document
 @@||o-bank.com^$important,document
+@@||ipost.post.gov.tw^$important,document
 @@||richart.tw^$important,document
 @@||scsb.com.tw^$important,document
 @@||sinopac.com^$important,document
@@ -95,8 +95,8 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 ! pionex.com
 pionex.com#@#[class^="ad_banner"]
 ! pixiv.net
-@@||d.pixiv.org/file^
 www.pixiv.net#@#.follow-button
+@@||d.pixiv.org/file^
 ! plurk.com
 ! 解決擋住分析就沒辦法登出其他設備的蠢問題
 @@||plurk.com/settings/sessions^$urlblock
@@ -118,14 +118,14 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 @@||store.steampowered.com/widget^$third-party
 ! twitter.com
 twitter.com#@##layers
+! uukanshu.com
+@@||sj.uukanshu.com^
 ! wds.com.tw
 www.wds.com.tw#@#.ad-div
 ! weiyun.com
 share.weiyun.com#@#.page-ad
 ! tw.finance.yahoo.com
 @@||tw.rd.yahoo.com/referurl/stock/index/get_quote/quote/^https://tw.stock.yahoo.com/h/stockmenu.php^
-! uukanshu.com
-@@||sj.uukanshu.com^
 ! youtube.com
 youtube.com#@#div#related
 ||s.youtube.com^$third-party
@@ -185,3 +185,5 @@ technews.tw##div.AD_wrapper
 wnacg.com##div#bread
 wnacg.org##div#bread
 yusaani.com##div.headLine
+! ----------------------------------------------------------------------
+store.steampowered.com^$removeparam=curator_clanid
