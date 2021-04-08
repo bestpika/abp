@@ -1,4 +1,4 @@
-! 2020.0117.3
+! 2021.0408.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -55,6 +55,7 @@
 @@||crypto.com^
 @@||digicert.com^
 @@||dlsite.jp^
+@@||eisys-bcs.jp^
 @@||graph.facebook.com^
 @@||gleam.io^
 @@||gravatar.com^
