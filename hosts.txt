@@ -1,4 +1,4 @@
-! 2021.0729.1
+! 2021.0801.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -49,6 +49,7 @@
 @@||binance.com^
 ! Whitelist
 @@||live.adyen.com^
+@@||apitime.net^
 @@||licenses.ashampoo.com^
 @@||awstrack.me^
 @@||p2.bahamut.com.tw^
