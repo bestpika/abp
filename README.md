@@ -5,20 +5,26 @@
 
 ## 過濾器
 
-### Main
+### Install
 
-```
-! ABP
+```md
 https://bestpika.github.io/abp/yui.txt
 https://gist.github.com/bestpika/5e414a4f60b2a996a6fb31ec592a56b4/raw/hide.txt
-https://280blocker.net/files/280blocker_adblock.txt
-https://filters.adtidy.org/extension/ublock/filters/3.txt
-https://filters.adtidy.org/extension/ublock/filters/15.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
-https://github.com/Yhonay/antipopads/raw/master/popads.txt
+https://bestpika.github.io/abp/cf.txt
+https://bestpika.github.io/abp/cfs.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjxlist.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+https://github.com/Yhonay/antipopads/raw/master/popads.txt
+```
+
+### Main
+
+```md
+! ABP
+https://280blocker.net/files/280blocker_adblock.txt
+https://filter.futa.gg/280blocker/280blocker_adblock.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 ! AAK
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://github.com/jspenguin2017/uBlockProtector/raw/master/uBlockProtectorList.txt
@@ -36,7 +42,7 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt
 
 ### Other
 
-```
+```md
 https://github.com/StevenBlack/hosts/raw/master/hosts
 https://adaway.org/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
@@ -51,7 +57,7 @@ https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
 
 ### AdGuard
 
-```
+```md
 https://filters.adtidy.org/extension/chromium/filters/3.txt
 https://filters.adtidy.org/extension/chromium/filters/15.txt
 ---
@@ -61,7 +67,7 @@ https://filters.adtidy.org/extension/ublock/filters/15.txt
 
 ### Disconnect
 
-```
+```md
 https://disconnect.me/lists/adfilter
 https://disconnect.me/lists/basicfilter
 https://disconnect.me/lists/malvertising
@@ -75,7 +81,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
 ### Windscribe
 
-```
+```md
 https://assets.windscribe.com/extension/ws/cookies.txt
 https://assets.windscribe.com/extension/ws/easylist.txt
 https://assets.windscribe.com/extension/ws/easyprivacy.txt
