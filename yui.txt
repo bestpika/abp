@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0805.1
+! Version: 2021.0805.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -20,11 +20,11 @@ new.isthereanydeal.com#%#//scriptlet('set-cookie-reload','disclaimer','1')
 nijiyome.jp#%#//scriptlet('set-cookie-reload','adultcheck','1')
 www.ptt.cc#%#document.onreadystatechange=()=>{if(location.pathname.includes('/ask/over18')){document.querySelectorAll('.over18-button-container>button[name="yes"]').forEach(x=>x.click())}};
 www.ptt.cc#%#//scriptlet('set-cookie-reload','over18','1')
-store.steampowered.com/app/*#%#localStorage.setItem('playback_hd',false);
-store.steampowered.com/app/*#%#document.cookie='lastagecheckage=28-February-1911;path=/';
-store.steampowered.com/app/*#%#//scriptlet('set-cookie-reload','bGameHighlightAudioEnabled','false')
-store.steampowered.com/app/*#%#//scriptlet('set-cookie-reload','bGameHighlightAutoplayDisabled','true')
-store.steampowered.com/app/*#%#//scriptlet('set-cookie-reload','labs_browse','1')
+store.steampowered.com#%#localStorage.setItem('playback_hd',false);
+store.steampowered.com#%#document.cookie='lastagecheckage=28-February-1911;path=/';
+store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAudioEnabled','false')
+store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAutoplayDisabled','true')
+store.steampowered.com#%#//scriptlet('set-cookie','labs_browse','1')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_idle_alert')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_new7_popup')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_popup_ad')
