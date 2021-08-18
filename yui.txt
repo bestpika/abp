@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0813.1
+! Version: 2021.0818.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -10,6 +10,8 @@
 ! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 ! https://github.com/AdguardTeam/Scriptlets
 ! ----------------------------------------------------------------------
+dlsite.com#%#document.cookie='lang=ja;path=/';
+dlsite.com#%#document.cookie='locale=ja-jp;path=/';
 dlsite.com#%#//scriptlet('set-cookie-reload','adultchecked','1')
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#//scriptlet('set-cookie-reload','r18','1')
