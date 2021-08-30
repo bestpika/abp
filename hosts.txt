@@ -1,4 +1,4 @@
-! 2021.0801.1
+! 2021.0830.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -54,6 +54,7 @@
 @@||awstrack.me^
 @@||p2.bahamut.com.tw^
 @@||chaturbate.com^
+@@||logo.clearbit.com^
 @@||api.crowdin.com^
 @@||crypto.com^
 @@||digicert.com^
