@@ -1,4 +1,4 @@
-! 2021.0830.1
+! 2021.0916.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -101,4 +101,6 @@
 ||jdoqocy.com^
 ||pixnet.com^
 ||pizzaseo.com^
+||renaultpassonxperience.co^
 ||sakurayae.com^
+||softwarebrother.com^
