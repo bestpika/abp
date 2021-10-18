@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.0905.1
+! Version: 2021.1018.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -64,6 +64,9 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 ! github.com
 @@||collector.githubapp.com^$domain=github.com
 @@||github.githubassets.com/favicon.ico
+! gitmoji.dev
+gitmoji.dev##header[class^="styles_header_"]
+gitmoji.dev##main>main>div:first-child
 ! google.com
 @@||www.google.com/recaptcha^
 @@||firestore.googleapis.com/google.firestore^
