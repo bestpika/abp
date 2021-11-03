@@ -1,4 +1,4 @@
-! 2021.0916.1
+! 2021.1103.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -96,6 +96,8 @@
 ||flash.cn^
 ||macromedia.com^
 ! -----
+||dad-api.dcard.tw^
+||xlate.dcard.tw^
 ||dpbolvw.net^
 ||ettoday.com^
 ||jdoqocy.com^
