@@ -1,4 +1,4 @@
-! 2021.1103.1
+! 2021.1110.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -68,6 +68,7 @@
 @@||intel.com^
 @@||ipapi.co^
 @@||mailtrack.io^
+@@||okex.com^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||nextdns.io^
