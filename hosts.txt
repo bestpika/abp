@@ -1,4 +1,4 @@
-! 2021.1110.1
+! 2021.1117.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -88,6 +88,7 @@
 @@||sj.uukanshu.com^
 @@||whitesmoke.com^
 @@||video.yahoo.com^
+@@||mc.yandex.ru
 ! Blocklist
 ! Flash
 ||2144.cn^
