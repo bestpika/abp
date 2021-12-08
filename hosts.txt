@@ -1,4 +1,4 @@
-! 2021.1117.1
+! 2021.1208.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -79,6 +79,7 @@
 @@||recaptcha.net^
 @@||ahd.ruten.com.tw^
 @@||share-videos.se^
+@@||c-api-bit.shopeemobile.com^
 @@||sia.tech^
 @@||crash.steampowered.com^
 @@||steelseries.com^
