@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2021.1214.1
+! Version: 2021.1222.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -28,6 +28,10 @@ store.steampowered.com#%#document.cookie='lastagecheckage=28-February-1911;path=
 store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAudioEnabled','false')
 store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAutoplayDisabled','true')
 store.steampowered.com#%#//scriptlet('set-cookie','labs_browse','1')
+store.steampowered.com#%#//scriptlet('set-cookie','labs_contenthub','1')
+store.steampowered.com#%#//scriptlet('set-cookie','labs_search','1')
+store.steampowered.com#%#//scriptlet('set-cookie','mature_content','1')
+store.steampowered.com#%#//scriptlet('set-cookie','wants_mature_content','1')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_idle_alert')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_new7_popup')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_popup_ad')
