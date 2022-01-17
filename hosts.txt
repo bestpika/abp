@@ -1,4 +1,4 @@
-! 2022.0112.1
+! 2022.0117.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -68,6 +68,7 @@
 @@||forms.hsforms.com^
 @@||intel.com^
 @@||ipapi.co^
+@@||ipinfo.io^
 @@||mailtrack.io^
 @@||okex.com^
 @@||stats.nba.com^
