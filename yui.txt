@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2022.0113.1
+! Version: 2022.0127.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -38,6 +38,7 @@ storm.mg#%#//scriptlet('abort-current-inline-script','show_new7_popup')
 storm.mg#%#//scriptlet('abort-current-inline-script','show_popup_ad')
 twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complete'){document.querySelectorAll('.ProfileWarningTimeline-button').forEach(x=>x.click());document.querySelectorAll('.Tombstone-action').forEach(x=>x.click());if(document.querySelector('.stream')){(new MutationObserver(mutations=>document.querySelectorAll('.Tombstone-action').forEach(x=>x.click()))).observe(document.querySelector('.stream'),{childList:true,subtree:true})}}};
 ! ----------------------------------------------------------------------
+! 銀行
 @@||cathaybk.com.tw^$important,document
 @@||dbs.com.tw^$important,document
 @@||esunbank.com.tw^$important,document
@@ -49,6 +50,9 @@ twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complet
 @@||scsb.com.tw^$important,document
 @@||sinopac.com^$important,document
 @@||taishinbank.com.tw^$important,document
+! ----------------------------------------------------------------------
+! 端點
+@@210.17.84.196$network
 ! ----------------------------------------------------------------------
 ! bilibili.com
 @@||acgvideo.com/*.flv
@@ -86,6 +90,8 @@ gitmoji.dev##main>main>div:first-child
 @@||capi.grammarly.com^
 ! greenmangaming.com
 @@||tags.tiqcdn.com/utag/gmg/greenman/prod/utag.js$domain=greenmangaming.com
+! gscc.net.tw
+@@||gscc.net.tw^$document,~extension
 ! hinet.net
 @@||enoc.hinet.net/eNoc/swf/map.swf
 ! hlsplayer.net
