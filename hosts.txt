@@ -1,4 +1,4 @@
-! 2022.0117.1
+! 2022.0315.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -20,6 +20,7 @@
 @@||fonts.gstatic.com^
 @@||s.youtube.com^
 ! Microsoft
+@@||mobile.pipe.aria.microsoft.com^
 @@||data.microsoft.com^
 @@||telemetry.microsoft.com^
 @@||ws.microsoft.com^
