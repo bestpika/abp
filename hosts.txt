@@ -1,4 +1,4 @@
-! 2022.0315.1
+! 2022.0406.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -62,6 +62,7 @@
 @@||digicert.com^
 @@||dlsite.jp^
 @@||eisys-bcs.jp^
+@@||friendbuy.com^
 @@||graph.facebook.com^
 @@||gleam.io^
 @@||gravatar.com^
