@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2022.0406.2
+! Version: 2022.0413.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -58,6 +58,8 @@ twitter.com#%#document.onreadystatechange=()=>{if(document.readyState==='complet
 ! appsumo.com
 @@||djnf6e5yyirys.cloudfront.net^$domain=appsumo.com
 @@||friendbuy.com^$domain=appsumo.com
+! biggo.com
+@@||extension.biggo.com^
 ! bilibili.com
 @@||acgvideo.com/*.flv
 ! dlsite.com
