@@ -1,4 +1,4 @@
-! 2022.0406.1
+! 2022.0421.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -56,7 +56,7 @@
 @@||awstrack.me^
 @@||p2.bahamut.com.tw^
 @@||chaturbate.com^
-@@||logo.clearbit.com^
+@@||clearbit.com^
 @@||api.crowdin.com^
 @@||crypto.com^
 @@||digicert.com^
