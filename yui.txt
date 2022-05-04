@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2022.0504.1
+! Version: 2022.0504.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -191,7 +191,6 @@ anime1.me##section#execphp-6
 ! appledaily.com##div.omoPaywall
 ! appledaily.com##div.paywall_fade
 ! appledaily.com#$#div#article-body>div#articleBody{height:100%!important;}
-bing.com##li.b_algo
 m.cnyes.com##div._12E
 m.cnyes.com##div._3Yy
 cryptorank.io##div[class^="desktop__BannerWrap"]
