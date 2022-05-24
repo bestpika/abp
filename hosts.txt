@@ -1,4 +1,4 @@
-! 2022.0421.1
+! 2022.0524.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -71,6 +71,7 @@
 @@||intel.com^
 @@||ipapi.co^
 @@||ipinfo.io^
+@@||joinhoney.com^
 @@||mailtrack.io^
 @@||okex.com^
 @@||stats.nba.com^
