@@ -1,4 +1,4 @@
-! 2022.0524.1
+! 2022.0608.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -91,6 +91,7 @@
 @@||surge.sh^
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
+@@||unpkg.com^
 @@||sj.uukanshu.com^
 @@||whitesmoke.com^
 @@||video.yahoo.com^
