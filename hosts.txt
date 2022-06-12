@@ -1,4 +1,4 @@
-! 2022.0612.1
+! 2022.0612.2
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -30,6 +30,7 @@
 @@||edge.activity.windows.com^
 @@||edge-enterprise.activity.windows.com^
 ! Slice
+@@||media.aso1.net^
 @@||plausible.io^
 @@||sli.ce.it^
 ! OCSP
