@@ -1,4 +1,4 @@
-! 2022.0608.1
+! 2022.0612.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -29,6 +29,9 @@
 @@||vsassets.io^
 @@||edge.activity.windows.com^
 @@||edge-enterprise.activity.windows.com^
+! Slice
+@@||plausible.io^
+@@||sli.ce.it^
 ! OCSP
 @@||ocsp.*.amazontrust.com^
 @@||ocsp.sectigo.com^
