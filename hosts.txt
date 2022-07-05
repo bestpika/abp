@@ -1,4 +1,4 @@
-! 2022.0612.2
+! 2022.0705.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -93,6 +93,7 @@
 @@||crash.steampowered.com^
 @@||steelseries.com^
 @@||surge.sh^
+@@||telegra.ph^
 @@||p.typekit.net^
 @@||cloud.unity3d.com^
 @@||unpkg.com^
