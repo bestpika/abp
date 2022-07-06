@@ -15,6 +15,7 @@ https://bestpika.github.io/abp/cfs.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjxlist.txt
 https://github.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
 https://github.com/Yhonay/antipopads/raw/master/popads.txt
+https://github.com/DandelionSprout/adfilt/raw/master/AntiAmazonListForTwitch.txt
 ```
 
 ### Main
