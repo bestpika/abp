@@ -112,6 +112,8 @@ gitmoji.dev##main>main>div:first-child
 @@||esapi.isthereanydeal.com^
 ! jandi.com
 @@||jandi.com^$document,~extension
+! kobo.com
+@@||readingservices.kobo.com^$document,~extension
 ! leletobuy.com
 @@||googletagmanager.com/gtag^$domain=leletobuy.com
 ! luxcinema.com.tw
