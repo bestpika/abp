@@ -1,4 +1,4 @@
-! 2022.0705.1
+! 2022.0822.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -51,14 +51,13 @@
 @@||lihi.cc^
 @@||rebrand.ly^
 @@||t.ly^
-! 密幣
-@@||binance.com^
 ! Whitelist
 @@||live.adyen.com^
 @@||apitime.net^
 @@||licenses.ashampoo.com^
 @@||awstrack.me^
 @@||p2.bahamut.com.tw^
+@@||binance.com^
 @@||chaturbate.com^
 @@||clearbit.com^
 @@||api.crowdin.com^
@@ -76,6 +75,7 @@
 @@||ipapi.co^
 @@||ipinfo.io^
 @@||joinhoney.com^
+@@||res-r.lfjack.com^
 @@||mailtrack.io^
 @@||okex.com^
 @@||stats.nba.com^
