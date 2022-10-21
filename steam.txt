@@ -1,7 +1,7 @@
-! 2022.0114.1
+! 2022.1021.1
 ! --------------------------------------------------
 ! 這是用來強迫 STEAM 使用比較快的 cache/CDN 用的
 ! --------------------------------------------------
 ! steampipe.akamaized.net^
 ! /cache\d+-\w+\d+\.steamcontent\.com/
-/cache\d+-hkg\d+\.steamcontent\.com/
+! /cache\d+-hkg\d+\.steamcontent\.com/
