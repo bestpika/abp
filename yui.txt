@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2022.0824.1
+! Version: 2022.1123.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -71,6 +71,8 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 @@||play.dlsite.com^$document,~extension
 ! ebb.io
 @@||ebb.io^$document,~extension
+! fanatical.com
+@@||fanatical.com/static/js/CookieConsent.*.js
 ! foodpanda.com.tw
 @@||d2zah9y47r7bi2.cloudfront.net^$domain=foodpanda.com.tw
 ! gamer.com.tw
