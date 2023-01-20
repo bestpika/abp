@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2023.0120.2
+! Version: 2023.0120.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -16,7 +16,7 @@ dlsite.com#%#document.cookie='locale=ja-jp;domain=dlsite.com;path=/';
 dlsite.com#%#//scriptlet('set-cookie-reload','adultchecked','1')
 dlsite.com#%#//scriptlet('set-cookie-reload','localesuggested','true')
 ch.dlsite.com#%#//scriptlet('set-cookie','adult_mode','1')
-dmm.co.jp#%#//scriptlet('set-cookie-reload','age_check_done','1')
+dmm.co.jp#%#document.onreadystatechange=()=>{if(location.pathname.includes('/age_check')){document.querySelectorAll('.ageCheck__link ageCheck__link--r18').forEach(x=>x.click())}}
 fanatical.com#%#localStorage.setItem('bsageGating',JSON.stringify({success:true}));
 gamme.com.tw#%#//scriptlet('set-cookie-reload','r18','1')
 www.humblebundle.com#%#document.cookie='hb_age_check=18;path=/';
