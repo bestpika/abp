@@ -1,4 +1,4 @@
-! 2022.0822.1
+! 2023.0216.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -88,6 +88,7 @@
 @@||recaptcha.net^
 @@||ahd.ruten.com.tw^
 @@||share-videos.se^
+@@||app.shopback.com^
 @@||c-api-bit.shopeemobile.com^
 @@||sia.tech^
 @@||crash.steampowered.com^
