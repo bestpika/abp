@@ -7,7 +7,7 @@
 ! https://adblockplus.org/zh_TW/filters
 ! https://adblockplus.org/zh_TW/filter-cheatsheet
 ! https://github.com/fang5566/uBlock/wiki/静态过滤规则语法
-! https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
+! https://kb.adguard.com/general/how-to-create-your-own-ad-filters
 ! https://github.com/AdguardTeam/Scriptlets
 ! ----------------------------------------------------------------------
 www.4gamers.com.tw#%#sessionStorage.setItem('puku_site_accept_adult_content',true);
