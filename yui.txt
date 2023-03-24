@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2023.0307.1
+! Version: 2023.0324.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -167,6 +167,8 @@ www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
 @@||store.steampowered.com/widget^$removeparam=curator_clanid
 @@||store.steampowered.com/widget^$removeparam=utm_source
 @@||store.steampowered.com/widget^$third-party
+! stripe.com
+@@||stripe.com^
 ! twitch.tv
 @@||hls.ttvnw.net^
 ! twitter.com
