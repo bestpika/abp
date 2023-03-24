@@ -1,4 +1,4 @@
-! 2023.0216.1
+! 2023.0324.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -93,6 +93,7 @@
 @@||sia.tech^
 @@||crash.steampowered.com^
 @@||steelseries.com^
+@@||stripe.com^
 @@||surge.sh^
 @@||telegra.ph^
 @@||p.typekit.net^
