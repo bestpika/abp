@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2023.0410.1
+! Version: 2023.0411.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -139,6 +139,8 @@ gitmoji.dev##main>main>div:first-child
 @@||nflxext.com^$document,~extension
 @@||nflxso.net^$document,~extension
 @@||nflxvideo.net^$document,~extension
+! paypal.com
+@@||paypal.com^
 ! pionex.com
 pionex.com#@#[class^="ad_banner"]
 ! pixiv.net
