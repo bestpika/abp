@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2023.0429.2
+! Version: 2023.0429.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -82,6 +82,7 @@ dlsite.com#$#.folder_minipop .folder{height:315px!important}
 @@||fuli.gamer.com.tw^$document,~extension
 @@||www.gamer.com.tw/*^sad=1$document,~extension
 @@||googletagmanager.com^$domain=ani.gamer.com.tw
+@@||googletagservices.com^$domain=ani.gamer.com.tw
 ! geforcenow.com
 @@||play.geforcenow.com^$document
 ! github.com
