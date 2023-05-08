@@ -117,6 +117,7 @@ https://assets.windscribe.com/extension/ws/malwaredomains.txt
 - <https://filterlists.com>
 - <https://firebog.net>
 - <https://hosts-file.net>
+- <https://letsblock.it>
 - <https://zeltser.com/malicious-ip-blocklists/>
 
 ### 清單
