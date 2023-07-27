@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2023.0324.1
+! Version: 2023.0727.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -9,6 +9,8 @@
 @@||adguard.org^
 @@||adtidy.org^
 @@||agrd.io^
+! Cloudflare
+@@||static.cloudflareinsights.com^
 ! Google
 @@||firebaseio.com^
 @@||forms.gle^
