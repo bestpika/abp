@@ -1,8 +1,8 @@
-! 2023.0822.1
+! 2023.0826.1
 ! --------------------------------------------------
 ! 這是用來強迫 STEAM 使用比較快的 cache/CDN 用的
 ! --------------------------------------------------
 ! steampipe.akamaized.net^
+! alibaba.cdn.steampipe.steamcontent.com^
 ! /cache\d+-\w+\d+\.steamcontent\.com/
 ! /cache\d+-hkg\d+\.steamcontent\.com/
-alibaba.cdn.steampipe.steamcontent.com^
