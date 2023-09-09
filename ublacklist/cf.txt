@@ -1,1 +1,2 @@
-*://ptt01.cc/*
+*://*.ptt01.cc/*
+*://*.twagoda.com/*
