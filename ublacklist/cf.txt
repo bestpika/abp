@@ -1,2 +1,3 @@
+*://*.mediatagtw.com/*
 *://*.ptt01.cc/*
 *://*.twagoda.com/*
