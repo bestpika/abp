@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 廣告退散
-! Version: 2024.0218.1
+! Version: 2024.0218.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -273,5 +273,6 @@ $removeparam=/^utm_[a-zA-Z]+/i
 humblebundle.com^$removeparam=hmb_source
 humblebundle.com^$removeparam=partner
 indiegala.com^$removeparam=ref
+netflix.com^$removeparam=tctx
 netflix.com^$removeparam=trackId
 steampowered.com^$removeparam=curator_clanid
