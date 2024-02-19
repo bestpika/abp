@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2024.0219.3
+! Version: 2024.0219.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
