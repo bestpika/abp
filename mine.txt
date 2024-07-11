@@ -7,6 +7,7 @@
 4gamers.com.tw##div.vue-portal-target:nth-child(1)
 dailyindiegame.com##div.google-auto-placed
 dcard.tw##div.__portal>div:nth-child(2)
+dealfuel.com##div.cky-consent-container:has(div.cky-notice)
 dorama.info##ins.adsbygoogle
 facebook.com##div[data-nosnippet]
 fanatical.com##div.small-usp-bar
