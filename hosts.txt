@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2024.0805.1
+! Version: 2024.0808.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -35,6 +35,8 @@
 @@||vsassets.io^
 @@||edge.activity.windows.com^
 @@||edge-enterprise.activity.windows.com^
+! PChome
+@@||dynamic.criteo.com^
 ! Slice
 @@||media.aso1.net^
 @@||plausible.io^
