@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2024.0808.1
+! Version: 2024.0817.3
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -8,15 +8,19 @@
 dailyindiegame.com##div.google-auto-placed
 dcard.tw##div.__portal>div:nth-child(2)
 dealfuel.com##div.cky-consent-container:has(div.cky-notice)
+diffchecker.com##div[class*=ad-box_container]
+diffchecker.com##div[class*=diff-checker_ads]
 dorama.info##ins.adsbygoogle
 facebook.com##div[data-nosnippet]
 fanatical.com##div.small-usp-bar
 cse.google.com##div.gsc-adBlock
 humblebundle.com##div#onetrust-banner-sdk
 humblebundle.com##div#site-xpromo-banner
+kktv.me##div[data-testid=player-logo]
 paypal.com##div#ccpaCookieBanner
 app.slack.com##div[class$=op-download-app]
 app.slack.com##div[data-qa=workspace-banner-enable-notifications]
 slack.com##div#onetrust-banner-sdk
 app.spendee.com##div.nm2B
 app.spendee.com##div.XrLr
+##div[id^=onesignal-]
