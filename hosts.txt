@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2024.0808.1
+! Version: 2024.0904.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -91,6 +91,7 @@
 @@||nextdns.io^
 @@||d.pixiv.org^
 @@||pornhubpremium.com^
+@@||posthog.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
 @@||recaptcha.net^
