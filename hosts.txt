@@ -91,7 +91,6 @@
 @@||nextdns.io^
 @@||d.pixiv.org^
 @@||pornhubpremium.com^
-@@||posthog.com^
 @@||mp.weixin.qq.com^
 @@||tshop.r10s.jp^
 @@||recaptcha.net^
