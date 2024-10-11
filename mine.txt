@@ -1,8 +1,10 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2024.0923.2
+! Version: 2024.1011.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
+! ----------------------------------------------------------------------
+$removeparam=fbclid
 ! ----------------------------------------------------------------------
 4gamers.com.tw##div.vue-portal-target:nth-child(1)
 dailyindiegame.com##div.google-auto-placed
