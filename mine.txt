@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2024.1011.1
+! Version: 2025.0225.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -21,6 +21,7 @@ humblebundle.com##div#onetrust-banner-sdk
 humblebundle.com##div#site-xpromo-banner
 kktv.me##div[data-testid=player-logo]
 paypal.com##div#ccpaCookieBanner
+producthunt.com##div[data-test^=ad-slot]
 reddit.com##shreddit-ad-post
 app.slack.com##div[class$=op-download-app]
 app.slack.com##div[data-qa=workspace-banner-enable-notifications]
