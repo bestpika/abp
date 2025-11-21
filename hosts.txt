@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2025.0317.1
+! Version: 2025.1121.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -12,6 +12,8 @@
 ! Amazon
 @@||amazon.co.jp^
 @@||amazon.com^
+! Aminos
+@@||aminos.ai
 ! Cloudflare
 @@||static.cloudflareinsights.com^
 ! Google
