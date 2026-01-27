@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2025.1121.1
+! Version: 2026.0128.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -105,6 +105,7 @@
 @@||crash.steampowered.com^
 @@||steelseries.com^
 @@||stripe.com^
+@@||sumo.com^
 @@||surge.sh^
 @@||telegra.ph^
 @@||p.typekit.net^
