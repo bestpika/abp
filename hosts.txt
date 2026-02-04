@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2026.0128.1
+! Version: 2026.0204.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -88,6 +88,7 @@
 @@||res-r.lfjack.com^
 @@||mailtrack.io^
 @@||okex.com^
+@@||paypal.com^
 @@||stats.nba.com^
 @@||neowin.net^
 @@||nextdns.io^
