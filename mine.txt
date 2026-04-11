@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2026.0412.1
+! Version: 2026.0412.2
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -23,9 +23,9 @@ kktv.me##div[data-testid=player-logo]
 paypal.com##div#ccpaCookieBanner
 producthunt.com##div[data-test^=ad-slot]
 reddit.com##shreddit-ad-post
+slack.com##div#onetrust-banner-sdk
 app.slack.com##div[class$=op-download-app]
 app.slack.com##div[data-qa=workspace-banner-enable-notifications]
-slack.com##div#onetrust-banner-sdk
 app.spendee.com##div.nm2B
 app.spendee.com##div.XrLr
 youranimes.tw##div#ya-sn
