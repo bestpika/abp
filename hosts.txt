@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2026.0204.1
+! Version: 2026.0411.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -85,6 +85,7 @@
 @@||ipapi.co^
 @@||ipinfo.io^
 @@||joinhoney.com^
+@@||linkila.com^
 @@||res-r.lfjack.com^
 @@||mailtrack.io^
 @@||okex.com^
