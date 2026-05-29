@@ -1,3 +1,4 @@
 *://*.mediatagtw.com/*
 *://*.ptt01.cc/*
 *://*.twagoda.com/*
+*://*.uptogo.com.tw/*
