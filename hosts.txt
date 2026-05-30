@@ -1,5 +1,5 @@
 ! Title: 廣告退散
-! Version: 2026.0411.1
+! Version: 2026.0530.1
 ! --------------------------------------------------
 ! 覆寫
 |the.dns|$dnsrewrite=A:127.0.0.1
@@ -104,6 +104,7 @@
 @@||app.shopback.com^
 @@||c-api-bit.shopeemobile.com^
 @@||sia.tech^
+@@||api.simplycodes.com^
 @@||crash.steampowered.com^
 @@||steelseries.com^
 @@||stripe.com^
