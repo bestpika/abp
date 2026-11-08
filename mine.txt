@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 自用最小化
-! Version: 2026.0412.2
+! Version: 2026.1108.1
 ! Expires: 1 hour
 ! Homepage: https://bestpika.github.io/abp/
 ! ----------------------------------------------------------------------
@@ -19,7 +19,7 @@ fanatical.com##section.cookie-collapsible
 cse.google.com##div.gsc-adBlock
 humblebundle.com##div#onetrust-banner-sdk
 humblebundle.com##div#site-xpromo-banner
-kktv.me##div[data-testid=player-logo]
+linetv.tw##div.sponsor-logo-class
 paypal.com##div#ccpaCookieBanner
 producthunt.com##div[data-test^=ad-slot]
 reddit.com##shreddit-ad-post
@@ -30,3 +30,5 @@ app.spendee.com##div.nm2B
 app.spendee.com##div.XrLr
 youranimes.tw##div#ya-sn
 ##div[id^=onesignal-]
+! ----------------------------------------------------------------------
+https://img.linetv.tw/storage/smart-channel/1763457552460-df880dd1-322a-43c4-8428-fbf9a40606cb.png
